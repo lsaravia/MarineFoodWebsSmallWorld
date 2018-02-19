@@ -1,0 +1,207 @@
+---
+title: "Marine Networks - Testing Small Network"
+author: "L.A.S. - T. M."
+output: html_document
+---
+## Referencias
+
+1. Clauset, A., Shalizi, C. & Newman, M. (2009). Power-Law Distributions in Empirical Data. SIAM Rev., 51, 661–703
+
+## Setup
+
+```{r setup, eval=T,echo=FALSE }
+load(".RData")
+#simul  <- F # variable to perform or not the simulations
+
+
+oldcd <-getwd()
+
+
+require(pander)
+require(plyr)
+require(dplyr)
+panderOptions('table.split.table',Inf)
+panderOptions('table.style', 'multiline')
+options("scipen"=6, "digits"=4)
+
+#Load package
+library(poweRlaw) 
+source("R/dist_fun.r")
+# 
+# Load functions for discrete distributions
+# # 
+# Load functions for continuous ht distributions
+# 
+
+source("R/powerlaw/discpowerexp.R")
+source("R/powerlaw/discexp.R")
+source("R/powerlaw/zeta.R")
+# 
+# Load functions for continuous ht distributions
+# 
+source("R/powerlaw/powerexp.R")
+source("R/powerlaw/exp.R")
+source("R/powerlaw/pareto.R")
+#
+
+```
+
+
+# Fit degree distribution for total food-web
+
+```{r degreeFitTot, eval=T,echo=F,message=T,warning=T}
+
+dtot <- read.delim("Data/AllNetworksDegree.dat", quote="",stringsAsFactors = F)
+unique(dtot$Network)
+
+opt.output <- vector("list", length=0)
+opt.output$GOF <- 0
+opt.output$ploting <- 1
+
+# Only new networks
+#
+dtot <- dtot %>% filter(Network=="Weddell")
+
+fit <- dtot %>% group_by(Network) %>% do(fit_ht_dplyr_helper(.))
+fitML <- bind_rows(fitML,fit)
+
+# Correct negative uniform parameter
+#
+fitML1 <- fitML %>% filter(ModelNames=="Uniform") %>% mutate(par1=-par1)
+fitML <- fitML %>% filter(ModelNames!="Uniform") %>% bind_rows(fitML1)
+# freq_plot_con_ht(dt$Grado,dft)
+
+fitML1 <- filter(fitML, Delta_AICc==0) %>% mutate_if(is.numeric, round, digits=4) 
+
+write.csv(fitML, file="AllNetworksFit.csv")
+write.csv(fitML1, file="AllNetworksLowerAICc.csv")
+
+save.image()
+
+# fitML$xmin<-1
+# dt <- filter(dtot, Network=="Jamaica")
+# ft <- filter(fitML, Network=="Jamaica")
+# 
+# cdfplot_displ_exp(dt$Degree,ft)
+# freq_plot_con_ht(dt$Degree,ft)
+# dtot %>% group_by(Network) %>% do(fit_ht_dplyr_helper(.))
+
+
+```
+
+
+# Generate random networks to obtain confidence intervals and compare with experimental FW
+
+
+```{r ramdomSmallWorld, eval=T,echo=F,message=T,warning=T}
+require(igraph)
+require(dplyr)
+source("R/small_world_fun.r")
+
+# Read networks data
+#
+ntot <- read.delim("Data/AllNetworksSLC.dat", quote="",stringsAsFactors = F)
+unique(ntot$Network)
+# Calculate confidence intervals for random networks (erdos.renyi)
+#
+swtot <- ntot %>% group_by(Network) %>% do( calc_cpl_cc(.$Size,.$Links,.$CPL,.$CC)) %>% inner_join(ntot) 
+swtot <- swtot %>% arrange(desc(C))
+
+
+# Arrange using Connectivity in descending order 
+#
+xlbl <-swtot %>% arrange(C) 
+#
+# Add SW test empirical CPL inside random CPL
+#             empirical CC > random CC
+#
+swtot <- swtot %>% mutate(isInsideCPL = ( CPL<=cha.pathUp), isGreaterCC =( CC>clus.coefHigh),
+                          isSW= isInsideCPL & isGreaterCC, CPL_ratio=CPL/cha.pathMean, CC_ratio=CC/clus.coefMean,isSWness=SWness>SWnessCI)  
+
+# Plot CC CPL Ratios with colors 
+#
+require(ggplot2)
+require(viridis)
+require(cowplot)
+ggplot(swtot, aes(CPL_ratio,CC_ratio,shape=isSW,fill=isSW)) + geom_point() + theme_bw()+  scale_colour_viridis(discrete = T) + scale_fill_viridis(discrete = T) + geom_text(aes(label=Network),check_overlap = TRUE,size=3,vjust=0,nudge_y = 0.03) +  theme(legend.position="bottom") + scale_shape_manual(values=c(21,25))+ ylab(expression(CC[Empirical]/CC[Random])) +  xlab(expression(CPL[Empirical]/CPL[Random]))
+ggsave("figures/IsSmallWorld_CPL_CC.png",width=5,height=6,units="in",dpi=600)
+
+
+
+ggplot(swtot, aes(CPL_ratio,CC_ratio,shape=isSWness,fill=isSWness)) + geom_point() + theme_bw()+  scale_colour_viridis(discrete = T) + scale_fill_viridis(discrete = T) + geom_text(aes(label=Network),check_overlap = TRUE,size=3,vjust=0,nudge_y = 0.03) +  theme(legend.position="bottom") + scale_shape_manual(values=c(21,25))+ ylab(expression(CC[Empirical]/CC[Random])) +  xlab(expression(CPL[Empirical]/CPL[Random]))
+ggsave("figures/IsSmallWorld_ness_CPL_CC.png",width=5,height=6,units="in",dpi=600)
+
+##
+
+ggplot(swtot, aes(Network,CC,shape=isSW)) + geom_point() + geom_linerange(aes(ymin = clus.coefLow, ymax = clus.coefHigh)) +theme_bw()+coord_flip() + scale_shape_manual(values=c(21,25),guide=FALSE) + scale_colour_viridis(discrete = T,guide=FALSE)+ scale_x_discrete(limits=xlbl$Network) # + scale_y_log10()  
+
+# Plot in BW Clustering Coeficient
+#
+A <- ggplot(swtot, aes(Network,CC,shape=isSW)) + geom_point() + geom_errorbar(aes(ymin = clus.coefLow, ymax = clus.coefHigh),width=0.1) +theme_bw()+coord_flip()+ scale_shape_manual(values=c(21,25),guide=FALSE) + scale_x_discrete(limits=xlbl$Network)  + theme(axis.title.y = element_blank())
+
+#ggsave("figures/CC_rnd95confint.png",width=5,height=6,units="in",dpi=600)
+
+# Plot in BW Path Length
+#
+B <- ggplot(swtot, aes(Network,CPL,shape=isSW)) + geom_point() + geom_errorbar(aes(ymin = cha.pathLow, ymax = cha.pathUp),width=0.1) +theme_bw()+coord_flip()  + scale_x_discrete(limits=xlbl$Network) + scale_shape_manual(values=c(21,25),guide=FALSE) + theme(axis.text.y = element_blank()) + xlab("")
+#ggsave("figures/CPL_rnd95confint.png",width=5,height=6,units="in",dpi=600)
+
+plot_grid(A,B,labels = c("A","B"),align = "h",rel_widths = c(1,.8))
+ggsave("figures/CC_CPL_rnd95confint.png",width=7,height=6,units="in",dpi=600)
+
+# Save csv file with all parameters and confidence intervals for random networks
+#
+write.csv(swtot, file="AllNetworksSLC_confint.csv")
+save.image()
+```
+
+
+# Test if Watts-Strogatz model pass Small world test 
+
+```{r WA_SmallWorld, eval=T,echo=F,message=T,warning=T}
+require(igraph)
+require(dplyr)
+source("R/small_world_fun.r")
+
+ntot <- read.delim("Data/AllNetworksSLC.dat", quote="",stringsAsFactors = F)
+
+# Do Watts - Strogatz models pass the test of SW?
+#
+# Generate WS models with approximate the same number of species and links and test if they pass our test
+#
+swr <- ntot %>% group_by(Network) %>% do( genWattsStrogatz_cpl_cc(.$Size,.$Links,10)) 
+
+factor <- 1
+swr <- swr %>% ungroup() %>% mutate(isInsideCPL = (CPL<=cha.pathUp*factor), isGreaterCC =( CC>clus.coefHigh), 
+                      isSW= isInsideCPL & isGreaterCC,CPL_ratio=CPL/cha.pathMean,CC_ratio=CC/clus.coefMean)
+
+require(ggplot2)
+require(viridis)
+ggplot(swr, aes(CPL_ratio,CC_ratio,colour=isSW,shape=type)) + geom_point(shape=25) + theme_bw()+  scale_colour_viridis(discrete = T) + facet_wrap(~Network)
+
+names(swr)
+names(swtot)
+
+swr <- swr %>% mutate(type="Watts-Strogatz", C=Links/(Size^2))
+swtot <- swtot %>% mutate(type="Empirical")
+swtot1 <- swtot %>% bind_rows(swr)
+
+ggplot(swtot1, aes(CPL_ratio,CC_ratio,colour=type)) + geom_point(alpha=0.7) + theme_bw()+  scale_colour_viridis(discrete = T) + facet_wrap(~isSW) + theme(legend.position="bottom")
+ggsave("figures/IsSmalWorld_EmpiricalVsWatts.png",width=6,height=6,units="in",dpi=600)
+
+ggplot(swtot1, aes(CPL,CC,colour=type)) + geom_point(alpha=0.5) + theme_bw()+  scale_colour_viridis(discrete = T) + theme(legend.position="bottom")
+
+
+swtot1 %>% group_by(type,isSW) %>% summarize(n=n()) %>% mutate(percentSmallWorld=n/sum(n))
+
+# 87% from Watts-Strogatz model do not pass the test!!!!!!!!!!!!!!!
+
+swtot2 <- swtot1 %>% mutate(CPL=cha.pathMean,CC=clus.coefMean,type="Random") %>% bind_rows(swtot1)
+ggplot(swtot2, aes(CPL,CC,colour=type)) + geom_point(alpha=0.5) + theme_bw()+  scale_colour_viridis(discrete = T) + theme(legend.position="bottom")
+#ggsave("figures/CCvsCPL_Type.png",width=5,height=6,units="in",dpi=600)
+
+save.image()
+
+
+
+```

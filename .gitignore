@@ -1,0 +1,9 @@
+*.csv
+*.html
+*.xls
+.R*
+.Rproj.user
+.o
+.dropbox
+.httr-oauth
+*.sublime-*
