@@ -25,8 +25,8 @@ Tomás Ignacio Marina ^1^ ^2^ ^3^, Leonardo A. Saravia ^2^ ^3^, Georgina Cordone
 
 	| 
 	|--- R: R code by L. Saravia
-    	 |
-    	 |--- R code by Cosma Rohilla Shalizi
+         |
+         |--- powerlaw: R code by Cosma Rohilla Shalizi
 
 
 ## Software Licence
