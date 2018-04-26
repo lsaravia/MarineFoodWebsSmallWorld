@@ -60,7 +60,7 @@ opt.output$ploting <- 1
 
 # Only new networks
 #
-dtot <- dtot %>% filter(Network=="Weddell")
+#dtot <- dtot %>% filter(Network=="Peru")
 
 fit <- dtot %>% group_by(Network) %>% do(fit_ht_dplyr_helper(.))
 fitML <- bind_rows(fitML,fit)
