@@ -156,3 +156,61 @@ save.image()
 ```
 
 
+# Calculate count and proportion of basal, intermediate and top predator species
+
+* Do not work well with some networks e.g. Weddell
+
+```{r ramdomSmallWorld, eval=T,echo=F,message=T,warning=T}
+require(dplyr)
+require(igraph)
+
+a_files <-list.files(path="Data/FoodWebs/",pattern="^.*\\.csv$")
+fw_basaltop <- data.frame()
+
+for (i in 1:length(a_files)){
+
+  web <- read.csv(file = paste0("Data/FoodWebs/", a_files[i]), header = T,check.names = F)
+  dw <- dim(web)
+  if(dw[2]==2 )
+  {
+    g <- graph_from_adj_list(web)
+  } else {
+    
+    if(dw[1]<dw[2]){
+      web <- web[,2:dw[2]]
+      dw <- dim(web)
+      colnames(web)
+    }
+    if(dw[1]!=dw[2]) stop(paste("non square",a_files[i]))
+  
+    g <- graph_from_adjacency_matrix(as.matrix(web))
+    V(g)$label <- colnames(web)
+  }
+  # Number and proportion of vertices with outgoing links = basal species
+  bas.count <- length(V(g)[degree(g, mode = 'out') > 0 & degree(g, mode = 'in') == 0])
+  bas.prop <- bas.count/vcount(g)
+  
+  # Number and proportion of vertices with both incoming and outgoing links = intermediate species
+  int.count <- length(V(g)[degree(g, mode = 'out') > 0 & degree(g, mode = 'in') > 0])
+  int.prop <- int.count/vcount(g)
+  
+  # Number and proportion of vertices with incoming links = top predators
+  top.count <- length(V(g)[degree(g, mode = 'in') > 0 & degree(g, mode = 'out') == 0])
+  top.prop <- top.count/vcount(g)
+  
+  # Proportion of primary producers/consumers 
+  # 'Detritus' should be neglected as basal species (bas.count)
+  nd <- length(grep("detr", V(g)$label, ignore.case = TRUE, value=F  ))
+  
+  pp.c <- (bas.count-nd)/(int.count+top.count)
+  fw_basaltop <- bind_rows(fw_basaltop,
+                           data.frame(Network=strsplit(a_files[i],"_",fixed=T)[[1]][1],basCount=bas.count,basProp=bas.prop,intCount=int.count,intProp=int.prop,topCount=top.count,topProp=top.prop, pcProp=pp.c))
+
+}
+
+require(pander)
+panderOptions('table.split.table',Inf)
+panderOptions('table.style', 'multiline')
+
+pandoc.table(fw_basaltop)
+```

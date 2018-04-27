@@ -1,4 +1,4 @@
-Nodes,Fitoplancton,Macroalgas,Pastos marinos,Zooplancton,Poliquetos,Langostas,Cangrejos y otros crustaceos,Camarones,Pulpos y calamares,Asteroideas y ofiuros,Investebrados herbivoros,Invertebrados carnivoros,"Pampano, bonito y jurel",Pargos,Corvinas,Peces depredadores pelagicos,Peces pelagicos pequeños,Peces demersales,Bagres,Meros y peces demersales grandes,Lenguados,Rayas y tiburones,Correas y anguiliformes,Tortugas,Delfines,Aves,Detritos
+Nodes,Fitoplancton,Macroalgas,Pastos marinos,Zooplancton,Poliquetos,Langostas,Cangrejos y otros crustaceos,Camarones,Pulpos y calamares,Asteroideas y ofiuros,Investebrados herbivoros,Invertebrados carnivoros,"Pampano bonito y jurel",Pargos,Corvinas,Peces depredadores pelagicos,Peces pelagicos pequenos,Peces demersales,Bagres,Meros y peces demersales grandes,Lenguados,Rayas y tiburones,Correas y anguiliformes,Tortugas,Delfines,Aves,Detritos
 Fitoplancton,0,0,0,1,1,0,0,1,0,0,1,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0
 Macroalgas,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
 Pastos marinos,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0
@@ -11,11 +11,11 @@ Pulpos y calamares,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,1,0,0,1,0,0
 Asteroideas y ofiuros,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0
 Invertebrados herbivoros,0,0,0,0,1,1,1,0,1,1,0,1,0,1,1,1,1,1,1,1,0,1,0,1,1,0,0
 Invertebrados carnivoros,0,0,0,0,0,1,1,0,1,1,0,1,0,1,1,1,1,1,1,0,0,1,1,0,0,0,0
-"Pampano, bonito y jurel",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+"Pampano bonito y jurel",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
 Pargos,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0
 Corvinas,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0
 Peces depredadores pelagicos,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,1,0
-Peces pelagicos pequeños,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,1,0,1,0,1,1,0
+Peces pelagicos pequenos,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,1,0,1,0,1,1,0
 Peces demersales,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,1,0,1,1,0,1,1,0
 Bagres,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
 Meros y peces demersales grandes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0
