@@ -60,14 +60,14 @@ opt.output$ploting <- 1
 
 # Only new networks
 #
-#dtot <- dtot %>% filter(Network=="Peru")
+dtot <- dtot %>% filter(Network=="Peru")
 
 fit <- dtot %>% group_by(Network) %>% do(fit_ht_dplyr_helper(.))
 fitML <- bind_rows(fitML,fit)
 
 # Correct negative uniform parameter
 #
-fitML1 <- fitML %>% filter(ModelNames=="Uniform") %>% mutate(par1=-par1)
+fitML1 <- fitML %>% filter(ModelNames=="Uniform") %>% mutate(par1=abs(par1))
 fitML <- fitML %>% filter(ModelNames!="Uniform") %>% bind_rows(fitML1)
 # freq_plot_con_ht(dt$Grado,dft)
 
@@ -186,6 +186,8 @@ for (i in 1:length(a_files)){
     g <- graph_from_adjacency_matrix(as.matrix(web))
     V(g)$label <- colnames(web)
   }
+  
+  calc_topological_indices(g)
   # Number and proportion of vertices with outgoing links = basal species
   bas.count <- length(V(g)[degree(g, mode = 'out') > 0 & degree(g, mode = 'in') == 0])
   bas.prop <- bas.count/vcount(g)

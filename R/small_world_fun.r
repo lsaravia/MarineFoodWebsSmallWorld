@@ -1,3 +1,17 @@
+# Calc connectivity clustering coeficient and path length 
+#
+#
+calc_topological_indices <- function(red.e)
+{
+  size.e <- vcount(red.e)
+  links.e <- ecount(red.e)
+  link.den <- links.e/size.e
+  conn.e <- links.e/size.e^2
+  cha.path.e <- average.path.length(red.e)
+  clus.coef.e <- transitivity(red.e, type = "global") 
+  #degree.e <- degree(red.e)
+  return(data.frame(Size=size.e,Links=links.e, LD=link.den,Connectance=conn.e,PathLength=cha.path.e,Clustering=clus.coef.e))
+}
 
 
 # Calculation of the clustering coefficients and average path for random network simulations
