@@ -1,1 +1,1805 @@
-Consumer,Resource9,99,649,879,1509,16823,6223,6423,16824,6424,16825,6425,16225,16826,2326,6226,6326,6426,15127,16828,2828,3028,3128,3228,3328,3428,3628,3828,3928,4028,14329,2629,3429,3829,3929,4030,2730,3630,3930,4030,4331,2631,3431,3831,3931,4031,6431,7331,7431,7531,7631,7731,8931,10531,12331,12431,16832,2632,6232,7232,16833,2733,4333,8133,8333,9033,10133,10333,11033,11133,12333,12433,12733,12833,12933,13433,13533,13633,14333,14433,14533,14634,2734,3434,3734,3834,3934,4034,7934,8034,8134,8334,10134,10234,10334,10534,10934,11034,11234,12334,12434,12534,12734,13034,13234,13334,13634,14234,14434,14634,15635,2735,4235,9035,10035,12335,12435,12535,12935,13435,13736,2736,2836,3136,3336,3436,3636,3836,3936,4036,7836,8036,8136,8336,10136,10336,10536,10736,10836,11036,12436,12536,12636,12736,12836,12936,13036,13136,13336,13436,13536,13636,13736,14236,14336,14436,14636,15636,16136,16837,6237,6337,6437,6637,6737,6837,7337,8837,9537,10737,13637,14037,15037,15237,15337,16838,138,238,338,438,538,638,738,838,1038,1438,1538,1738,2338,2638,2938,3738,3838,4238,6438,7338,8938,9438,9938,10238,10838,11038,11238,12438,14538,15838,16738,16838,16938,17039,6239,6439,6939,16840,6340,6440,16841,6241,6441,16842,8342,10342,16843,6443,15143,16844,5644,14144,15044,15644,16145,4545,8045,8145,8245,8345,10345,10745,12345,14045,14745,14945,15045,15845,16146,4646,6446,14046,14146,15046,16847,7347,15047,15447,15547,15648,1448,3748,6448,7448,7548,8048,8948,9148,9848,10348,12748,13948,14048,14148,14748,14848,14948,15048,15248,15448,15648,15848,16849,3749,12749,14749,15049,15649,15849,16850,8150,12650,14150,14750,15050,15651,15052,1252,1452,4052,8952,9452,10352,13952,15053,853,1453,2053,8953,9453,14053,15053,15253,15453,15654,1454,1854,1954,6454,8954,9454,14754,15054,16355,3855,10255,14055,14755,14955,15055,15255,16856,14156,15057,757,1057,1457,1757,2357,3857,4057,4257,4357,4457,5157,5857,5957,6057,6157,7457,7557,7657,7857,7957,8257,8457,8957,9057,10357,10757,10857,10957,11057,11157,11257,12457,12657,12757,12857,12957,13057,13157,13257,13357,13457,13557,13657,13757,14457,15457,16057,16157,16857,17257,17457,17957,18157,18257,18357,18457,19057,19157,19557,20457,20857,21157,21257,21857,22157,22257,22357,22457,22557,23458,2458,3358,3658,3858,4058,5658,7858,7958,10158,10758,11058,12458,12658,12758,12858,12958,13058,13158,13258,13358,13458,13558,13658,13758,15558,15658,15858,16058,16158,17258,18458,19359,959,5559,5659,5859,5959,6059,9159,12759,15059,16859,17259,17559,17659,17759,17859,17959,18059,18159,18259,18359,18459,18559,18759,18959,19059,19159,19659,20359,20659,20759,20959,21059,21159,21259,21459,21559,21659,21759,21859,21959,22159,22259,22359,22459,22559,22859,22959,23059,23259,23460,4460,4660,4760,4960,5060,5160,5260,5360,5460,5560,5660,5860,6160,7860,16160,22261,4461,4661,4961,5161,5261,5561,5661,7861,12761,15561,15661,16167,6267,6467,6767,6867,6968,6468,6768,6868,6968,14069,2369,4669,6269,6369,6469,6969,8769,15169,16270,6270,16871,16872,6272,16873,6273,6473,6773,6973,7373,8873,14073,15073,15273,15373,15873,16273,16874,2674,6474,6774,7374,7474,8374,10174,10374,12774,13574,14474,14674,15674,15874,16174,16875,15275,16876,3176,4976,7576,12776,16077,2677,6477,6777,14077,14177,14277,14477,14677,15077,15277,16878,3878,7878,10378,10578,10778,11178,12378,12778,12978,13378,13478,13578,14678,15878,16078,16179,16880,1080,1380,6480,8780,9480,9680,14280,14380,14480,14680,16380,16480,16981,6481,8781,9681,14281,14481,14681,16381,16481,16681,16781,16981,17082,6482,16983,183,583,1483,2083,6483,6783,8783,8983,14283,14483,14683,16383,16683,16783,16883,16983,17084,8484,8584,8884,9185,8085,8185,8885,9185,9385,9785,11085,14285,14485,14686,10386,14986,15086,15288,2688,6388,6488,6888,6988,7388,8888,13988,14088,14888,15088,16890,6490,6690,6790,16891,291,1091,2091,6491,6591,6791,7391,8991,9191,13391,14891,15091,16892,8892,9192,13392,15092,16893,3793,6793,9393,9593,16895,16897,6297,6497,8997,16898,168100,5100,7100,15100,18100,167100,169101,2101,3101,4101,5101,6101,7101,10101,11101,12101,15101,18101,64101,89101,96101,99101,163101,164101,166101,167101,169101,170102,2102,4102,5102,6102,7102,10102,64102,163102,165102,168102,169103,2103,3103,8103,10103,11103,12103,14103,19103,20103,21103,22103,38103,64103,67103,87103,89103,94103,96103,99103,151103,163103,164103,165103,166103,167103,168103,169103,170104,72104,169105,98105,168106,169107,23107,63107,64107,89107,107107,112107,131107,133107,134107,135107,168107,169108,27108,30108,34108,37108,38108,42108,43108,98108,100108,107108,108108,123108,124108,126108,127108,130108,168109,127109,142109,144109,146110,43110,81110,105110,127110,142110,144110,145110,146111,81111,103111,127111,144111,145111,146112,38112,88112,97112,112112,127112,130112,132112,150112,161112,168113,10113,89113,169114,70114,72115,71116,70116,72117,70117,72118,26119,26119,73119,74119,119119,168120,73120,74120,75120,76120,77121,64121,169122,62122,64122,87122,168122,169123,15123,26123,64123,167123,169124,5124,7124,10124,14124,15124,16124,18124,19124,20124,22124,26124,64124,67124,72124,73124,87124,89124,94124,102124,142124,164124,165124,166124,167124,169124,170124,171125,15125,26125,64125,67125,69125,73125,89125,110125,163125,166125,167125,168125,169126,4126,5126,7126,20126,89126,94126,108126,163126,169127,63127,64127,66127,83127,89127,162127,168128,168129,168130,23130,63130,64130,151130,168131,168132,168133,62133,64133,66133,87133,162133,168134,168135,168136,168137,168138,168139,26139,40139,67139,72139,73139,74139,76139,77139,98139,168140,62140,87140,168141,64141,168142,168143,64143,168144,64144,168145,23145,64145,66145,69145,162145,168146,64146,67146,127146,140146,168147,10147,11147,19147,64147,89147,96147,168148,168149,1149,2149,4149,5149,6149,7149,10149,14149,15149,17149,20149,64149,65149,73149,87149,89149,94149,96149,99149,110149,163149,165149,168150,1150,2150,7150,8150,10150,11150,14150,15150,17150,19150,20150,40150,62150,64150,65150,69150,87150,89150,94150,96150,99150,133150,140150,150150,162150,164150,165150,168150,169152,10152,18152,64152,168152,169153,63153,64153,66153,67153,68153,69153,73153,87153,140153,153153,162153,168154,64154,67154,73154,119154,150154,151154,168155,38155,64155,67155,73155,91155,92155,133155,140155,149155,150155,168156,20156,26156,38156,64156,67156,73156,81156,92156,110156,127156,140156,156156,168157,168158,2158,4158,6158,7158,10158,11158,20158,26158,64158,65158,73158,127158,149158,168159,67159,168160,36160,65161,25161,27161,34161,36161,38161,40161,42161,56161,64161,65161,73161,79161,95161,101161,103161,105161,110161,112161,127161,128161,130161,131161,132161,133161,134161,135161,136161,143161,145161,150161,155161,156161,158161,161161,162161,168161,170162,62162,63162,64162,69162,87162,151162,162172,46172,55172,56172,78172,91172,149172,150172,154172,156172,172173,46173,91173,140173,150173,155173,173174,38174,56174,67174,88174,91174,101174,147174,150174,153174,156174,168175,73175,91175,101175,140175,149175,150175,153175,156176,56176,108176,150176,153177,56177,73177,150177,153177,168178,46178,55178,56178,103178,127178,154178,155178,161178,168179,47179,56179,91179,154180,87180,89180,91180,133180,180181,65181,190182,10182,65182,89183,65183,79183,89183,127183,133183,160184,25184,26184,64184,65184,67184,87184,89184,91184,96184,138184,140184,150184,168185,65185,89185,102185,103185,104185,127185,133185,145185,150185,156185,161185,168186,81186,91186,101186,102186,103186,127186,133186,144186,149186,150186,156186,161186,168186,186187,79187,101187,102187,103187,127187,133187,149187,150187,152187,153187,155187,161188,37188,81188,87188,101188,102188,103188,123188,125188,127188,156189,37189,38189,91189,101189,102189,103189,112189,127189,133189,136189,149189,150189,152190,34190,37190,38190,91190,101190,102190,103190,112190,123190,127190,128190,133190,136190,149190,150190,161190,190191,37191,38191,73191,101191,127191,133191,136191,150191,152192,100192,102192,103192,104192,127192,130192,133192,135192,150192,161192,192193,37193,101193,103193,127193,130193,133193,135193,144193,149193,156194,79194,127194,130195,45195,46195,50195,52195,53195,55195,56195,127195,195196,23196,168196,184196,185196,191196,203196,204196,205196,206196,207196,208196,209196,215196,226196,229197,23197,59197,180197,181197,183197,184197,186197,188197,199197,201197,204197,213197,226197,231198,38198,56198,58198,59198,91198,126198,127198,130198,135198,161198,168198,172198,175198,176198,177198,181198,183198,184198,186198,187198,188198,190198,195198,198198,202198,211198,212198,215198,217198,218198,219198,220198,221198,223198,224198,225198,231198,232199,184199,187199,195199,196199,199199,200199,206199,208199,209199,214199,215199,216199,226199,229199,230200,177200,179200,182200,184200,186200,187200,188200,195200,200200,201200,202200,203200,204200,205200,206200,208200,209200,212200,215200,216200,217200,219200,220200,221200,222200,223200,224200,225200,226200,229200,230200,231200,232200,233201,184202,24202,34202,73202,80202,81202,82202,83202,91202,100202,101202,103202,109202,110202,123202,124202,125202,127202,134202,135202,144202,149203,91203,92203,133203,140203,150204,9204,26204,46204,67204,91204,103204,133204,140204,147204,150204,155204,204205,103205,150206,9206,67206,73206,91206,93206,102206,103206,127206,128206,130206,133206,140206,144206,147206,150206,168206,169206,206207,9207,91207,97207,103207,133207,150207,168207,207208,9208,208209,73209,128209,153209,209210,59210,150210,172210,177210,180210,181210,182210,183210,184210,185210,187210,190210,191210,203210,206210,210210,211210,213210,215210,216210,217210,218210,229210,230211,38211,55211,56211,79211,91211,107211,127211,128211,153211,180211,181211,182211,183211,184211,185211,187211,190211,191211,201211,206211,209211,214211,215211,217211,218211,230212,6212,30212,31212,33212,34212,35212,36212,38212,40212,51212,56212,78212,80212,81212,83212,86212,91212,100212,101212,103212,109212,110212,124212,125212,126212,127212,130212,131212,134212,135212,144212,146212,158212,160212,161212,168212,177212,180212,181212,182212,183212,189212,215212,221212,222212,223212,225213,38213,79213,101213,102213,103213,127213,133213,156213,161213,177213,181213,184213,187213,190213,195213,203213,206213,215213,216213,226213,230214,79214,91214,97214,127214,133214,155214,156214,180214,185214,206214,228215,51215,56215,91215,150215,153215,215216,46216,73216,91216,150216,153217,56217,91217,139217,150217,153217,154217,155217,217218,56218,91218,150218,153218,154218,155219,51219,55219,56219,102219,154219,155219,156219,161220,51220,56220,150220,153221,56221,150221,153221,221222,47222,48222,56222,73222,140222,149222,150222,152222,153222,154222,155222,156222,161223,73223,150223,153223,156224,46224,51224,55224,56224,153225,46225,51225,55225,56225,91225,150225,153226,177226,203226,206226,216226,228227,9227,206227,230228,168229,9230,9231,38231,126231,168231,172231,180231,181231,184231,185231,189231,190231,191231,195231,201231,202231,203231,206231,207231,212231,213231,215231,216231,217231,218231,220231,226231,229231,231232,56232,150232,153232,156233,9234,173234,177234,181234,184234,185234,186234,187234,188234,189234,192234,193234,206234,212234,214234,219234,221234,222234,224234,225234,226234,228234,229234,230235,73
+"","Predator","Prey"
+"1","Staphylinidae","Staphylinidae"
+"2","Staphylinidae","Bacillariophyta"
+"3","Staphylinidae","Cyanophycota"
+"4","Staphylinidae","Gammaridea"
+"5","Staphylinidae","Detritus complex"
+"6","Chrysophyta","Bacteria"
+"7","Chrysophyta","Bacillariophyta"
+"8","Chrysophyta","Detritus complex"
+"9","Phascolosomatidae","Bacillariophyta"
+"10","Phascolosomatidae","Detritus complex"
+"11","Phoronida","Bacillariophyta"
+"12","Phoronida","Dinophyceae"
+"13","Phoronida","Detritus complex"
+"14","Gymnolaemata","Chrysophyta"
+"15","Gymnolaemata","Bacteria"
+"16","Gymnolaemata","Prymnesiophyceae"
+"17","Gymnolaemata","Bacillariophyta"
+"18","Gymnolaemata","Prasinophyta"
+"19","Terebratalia transversa","Detritus complex"
+"20","Solaster dawsoni","Solaster dawsoni"
+"21","Solaster dawsoni","Solaster stimpsoni"
+"22","Solaster dawsoni","Dermasterias imbricata"
+"23","Solaster dawsoni","Henricia"
+"24","Solaster dawsoni","Evasterias troschelii"
+"25","Solaster dawsoni","Leptasterias"
+"26","Solaster dawsoni","Pycnopodia helianthoides"
+"27","Solaster dawsoni","Strongylocentrotus droebachiensis"
+"28","Solaster dawsoni","Eupentacta"
+"29","Solaster dawsoni","Cucumaria"
+"30","Solaster dawsoni","Balanus crenatus"
+"31","Solaster endeca","Gymnolaemata"
+"32","Solaster endeca","Leptasterias"
+"33","Solaster endeca","Strongylocentrotus droebachiensis"
+"34","Solaster endeca","Eupentacta"
+"35","Solaster endeca","Cucumaria"
+"36","Solaster stimpsoni","Terebratalia transversa"
+"37","Solaster stimpsoni","Pycnopodia helianthoides"
+"38","Solaster stimpsoni","Eupentacta"
+"39","Solaster stimpsoni","Cucumaria"
+"40","Solaster stimpsoni","Pyura"
+"41","Dermasterias imbricata","Gymnolaemata"
+"42","Dermasterias imbricata","Leptasterias"
+"43","Dermasterias imbricata","Strongylocentrotus droebachiensis"
+"44","Dermasterias imbricata","Eupentacta"
+"45","Dermasterias imbricata","Cucumaria"
+"46","Dermasterias imbricata","Bacillariophyta"
+"47","Dermasterias imbricata","Hydrozoa"
+"48","Dermasterias imbricata","Anthopleura"
+"49","Dermasterias imbricata","Epiactis"
+"50","Dermasterias imbricata","Urticina"
+"51","Dermasterias imbricata","Metridium senile"
+"52","Dermasterias imbricata","Ulvaceae"
+"53","Dermasterias imbricata","Trichotropis cancellata"
+"54","Dermasterias imbricata","Tonicella"
+"55","Dermasterias imbricata","Katharina tunicata"
+"56","Dermasterias imbricata","Detritus complex"
+"57","Henricia","Gymnolaemata"
+"58","Henricia","Bacteria"
+"59","Henricia","Halichondria panicea"
+"60","Henricia","Detritus complex"
+"61","Evasterias troschelii","Terebratalia transversa"
+"62","Evasterias troschelii","Pyura"
+"63","Evasterias troschelii","Lottia pelta"
+"64","Evasterias troschelii","Lottia scutum"
+"65","Evasterias troschelii","Balanus nubilus"
+"66","Evasterias troschelii","Trochidae"
+"67","Evasterias troschelii","Littorina"
+"68","Evasterias troschelii","Nucella lamellosa"
+"69","Evasterias troschelii","Nucella lima"
+"70","Evasterias troschelii","Tonicella"
+"71","Evasterias troschelii","Katharina tunicata"
+"72","Evasterias troschelii","Mytilus"
+"73","Evasterias troschelii","Modiolus"
+"74","Evasterias troschelii","Pododesmus"
+"75","Evasterias troschelii","Saxidomus"
+"76","Evasterias troschelii","Protothaca staminea"
+"77","Evasterias troschelii","Hiatellidae"
+"78","Evasterias troschelii","Balanus crenatus"
+"79","Evasterias troschelii","Balanus glandula"
+"80","Evasterias troschelii","Semibalanus balanoides"
+"81","Evasterias troschelii","Semibalanus cariosus"
+"82","Leptasterias","Terebratalia transversa"
+"83","Leptasterias","Leptasterias"
+"84","Leptasterias","Ophiuroidea"
+"85","Leptasterias","Strongylocentrotus droebachiensis"
+"86","Leptasterias","Eupentacta"
+"87","Leptasterias","Cucumaria"
+"88","Leptasterias","Pharidae"
+"89","Leptasterias","Lottia digitalis"
+"90","Leptasterias","Lottia pelta"
+"91","Leptasterias","Lottia scutum"
+"92","Leptasterias","Trochidae"
+"93","Leptasterias","Lacuna"
+"94","Leptasterias","Littorina"
+"95","Leptasterias","Trichotropis cancellata"
+"96","Leptasterias","Nucella canaliculata"
+"97","Leptasterias","Nucella lamellosa"
+"98","Leptasterias","Buccinum"
+"99","Leptasterias","Tonicella"
+"100","Leptasterias","Katharina tunicata"
+"101","Leptasterias","Mopalia"
+"102","Leptasterias","Mytilus"
+"103","Leptasterias","Clinocardium"
+"104","Leptasterias","Mactromeris"
+"105","Leptasterias","Macoma"
+"106","Leptasterias","Hiatellidae"
+"107","Leptasterias","Chthamalus dalli"
+"108","Leptasterias","Balanus glandula"
+"109","Leptasterias","Semibalanus cariosus"
+"110","Leptasterias","Paguridae"
+"111","Orthasterias koehleri","Terebratalia transversa"
+"112","Orthasterias koehleri","Styela"
+"113","Orthasterias koehleri","Balanus nubilus"
+"114","Orthasterias koehleri","Acmaea mitra"
+"115","Orthasterias koehleri","Tonicella"
+"116","Orthasterias koehleri","Katharina tunicata"
+"117","Orthasterias koehleri","Mopalia"
+"118","Orthasterias koehleri","Pododesmus"
+"119","Orthasterias koehleri","Saxidomus"
+"120","Orthasterias koehleri","Entodesma"
+"121","Pycnopodia helianthoides","Terebratalia transversa"
+"122","Pycnopodia helianthoides","Solaster dawsoni"
+"123","Pycnopodia helianthoides","Dermasterias imbricata"
+"124","Pycnopodia helianthoides","Evasterias troschelii"
+"125","Pycnopodia helianthoides","Leptasterias"
+"126","Pycnopodia helianthoides","Pycnopodia helianthoides"
+"127","Pycnopodia helianthoides","Strongylocentrotus droebachiensis"
+"128","Pycnopodia helianthoides","Eupentacta"
+"129","Pycnopodia helianthoides","Cucumaria"
+"130","Pycnopodia helianthoides","Enteroctopus dofleini"
+"131","Pycnopodia helianthoides","Lottia digitalis"
+"132","Pycnopodia helianthoides","Lottia pelta"
+"133","Pycnopodia helianthoides","Lottia scutum"
+"134","Pycnopodia helianthoides","Trochidae"
+"135","Pycnopodia helianthoides","Littorina"
+"136","Pycnopodia helianthoides","Trichotropis cancellata"
+"137","Pycnopodia helianthoides","Naticidae"
+"138","Pycnopodia helianthoides","Fusitriton"
+"139","Pycnopodia helianthoides","Nucella lamellosa"
+"140","Pycnopodia helianthoides","Katharina tunicata"
+"141","Pycnopodia helianthoides","Mopalia"
+"142","Pycnopodia helianthoides","Cryptochiton stelleri"
+"143","Pycnopodia helianthoides","Mytilus"
+"144","Pycnopodia helianthoides","Modiolus"
+"145","Pycnopodia helianthoides","Pododesmus"
+"146","Pycnopodia helianthoides","Clinocardium"
+"147","Pycnopodia helianthoides","Tresus"
+"148","Pycnopodia helianthoides","Macoma"
+"149","Pycnopodia helianthoides","Saxidomus"
+"150","Pycnopodia helianthoides","Protothaca staminea"
+"151","Pycnopodia helianthoides","Hiatellidae"
+"152","Pycnopodia helianthoides","Entodesma"
+"153","Pycnopodia helianthoides","Chthamalus dalli"
+"154","Pycnopodia helianthoides","Balanus crenatus"
+"155","Pycnopodia helianthoides","Balanus glandula"
+"156","Pycnopodia helianthoides","Semibalanus cariosus"
+"157","Pycnopodia helianthoides","Paguridae"
+"158","Pycnopodia helianthoides","Cancer"
+"159","Pycnopodia helianthoides","Detritus complex"
+"160","Ophiuroidea","Bacteria"
+"161","Ophiuroidea","Prymnesiophyceae"
+"162","Ophiuroidea","Bacillariophyta"
+"163","Ophiuroidea","Sarcomastigophora"
+"164","Ophiuroidea","Foraminiferida"
+"165","Ophiuroidea","Radiolaria"
+"166","Ophiuroidea","Hydrozoa"
+"167","Ophiuroidea","Polynoidae"
+"168","Ophiuroidea","Flabelligeridae"
+"169","Ophiuroidea","Naticidae"
+"170","Ophiuroidea","Hiatellidae"
+"171","Ophiuroidea","Ostracoda"
+"172","Ophiuroidea","Gammaridea"
+"173","Ophiuroidea","Caprellidae"
+"174","Ophiuroidea","Euphausiidae"
+"175","Ophiuroidea","Detritus complex"
+"176","Strongylocentrotus droebachiensis","Pilayella littoralis"
+"177","Strongylocentrotus droebachiensis","Laminaria"
+"178","Strongylocentrotus droebachiensis","Agarum"
+"179","Strongylocentrotus droebachiensis","Costaria costata"
+"180","Strongylocentrotus droebachiensis","Saccharina sessile"
+"181","Strongylocentrotus droebachiensis","Nereocystis luetkeana"
+"182","Strongylocentrotus droebachiensis","Alaria"
+"183","Strongylocentrotus droebachiensis","Desmarestia"
+"184","Strongylocentrotus droebachiensis","Fucus"
+"185","Strongylocentrotus droebachiensis","Porphyra"
+"186","Strongylocentrotus droebachiensis","Corallina"
+"187","Strongylocentrotus droebachiensis","Palmaria"
+"188","Strongylocentrotus droebachiensis","Chrysophyta"
+"189","Strongylocentrotus droebachiensis","Gymnolaemata"
+"190","Strongylocentrotus droebachiensis","Solaster endeca"
+"191","Strongylocentrotus droebachiensis","Ophiuroidea"
+"192","Strongylocentrotus droebachiensis","Strongylocentrotus droebachiensis"
+"193","Strongylocentrotus droebachiensis","Styela"
+"194","Strongylocentrotus droebachiensis","Bacillariophyta"
+"195","Strongylocentrotus droebachiensis","Hydrozoa"
+"196","Strongylocentrotus droebachiensis","Ulvaceae"
+"197","Strongylocentrotus droebachiensis","Acrosiphoniaceae"
+"198","Strongylocentrotus droebachiensis","Codiaceae"
+"199","Strongylocentrotus droebachiensis","Lacuna"
+"200","Strongylocentrotus droebachiensis","Fusitriton"
+"201","Strongylocentrotus droebachiensis","Nucella lamellosa"
+"202","Strongylocentrotus droebachiensis","Buccinum"
+"203","Strongylocentrotus droebachiensis","Katharina tunicata"
+"204","Strongylocentrotus droebachiensis","Semibalanus balanoides"
+"205","Strongylocentrotus droebachiensis","Pugettia"
+"206","Strongylocentrotus droebachiensis","Crustose coralline algae complex"
+"207","Strongylocentrotus droebachiensis","Detritus complex"
+"208","Strongylocentrotus droebachiensis","Biofilm Complex"
+"209","Strongylocentrotus droebachiensis","Red crust complex"
+"210","Eupentacta","Bacteria"
+"211","Eupentacta","Bacillariophyta"
+"212","Eupentacta","Ciliophora"
+"213","Eupentacta","Detritus complex"
+"214","Cucumaria","Prymnesiophyceae"
+"215","Cucumaria","Bacillariophyta"
+"216","Cucumaria","Detritus complex"
+"217","Apodacea","Bacteria"
+"218","Apodacea","Bacillariophyta"
+"219","Apodacea","Detritus complex"
+"220","Styela","Lottia scutum"
+"221","Styela","Littorina"
+"222","Styela","Detritus complex"
+"223","Pyura","Bacillariophyta"
+"224","Pyura","Prasinophyta"
+"225","Pyura","Detritus complex"
+"226","Hypomesus pretiosus","Ammodytes hexapterus"
+"227","Hypomesus pretiosus","Harpacticidae"
+"228","Hypomesus pretiosus","Gammaridea"
+"229","Hypomesus pretiosus","Paguridae"
+"230","Hypomesus pretiosus","Cancer"
+"231","Gobiesocidae","Gobiesocidae"
+"232","Gobiesocidae","Lottia digitalis"
+"233","Gobiesocidae","Lottia pelta"
+"234","Gobiesocidae","Lottia persona"
+"235","Gobiesocidae","Lottia scutum"
+"236","Gobiesocidae","Littorina"
+"237","Gobiesocidae","Naticidae"
+"238","Gobiesocidae","Tonicella"
+"239","Gobiesocidae","Ostracoda"
+"240","Gobiesocidae","Sphaeromatidae"
+"241","Gobiesocidae","Idoteidae"
+"242","Gobiesocidae","Gammaridea"
+"243","Gobiesocidae","Pugettia"
+"244","Gobiesocidae","Cancer"
+"245","Gasterosteus aculeatus","Gasterosteus aculeatus"
+"246","Gasterosteus aculeatus","Bacillariophyta"
+"247","Gasterosteus aculeatus","Ostracoda"
+"248","Gasterosteus aculeatus","Harpacticidae"
+"249","Gasterosteus aculeatus","Gammaridea"
+"250","Gasterosteus aculeatus","Detritus complex"
+"251","Artedius","Hydrozoa"
+"252","Artedius","Gammaridea"
+"253","Artedius","Hippolytidae"
+"254","Artedius","Crangonidae"
+"255","Artedius","Paguridae"
+"256","Clinocottus","Porphyra"
+"257","Clinocottus","Ophiuroidea"
+"258","Clinocottus","Bacillariophyta"
+"259","Clinocottus","Anthopleura"
+"260","Clinocottus","Epiactis"
+"261","Clinocottus","Lottia digitalis"
+"262","Clinocottus","Ulvaceae"
+"263","Clinocottus","Nereididae"
+"264","Clinocottus","Sabellidae"
+"265","Clinocottus","Littorina"
+"266","Clinocottus","Mytilus"
+"267","Clinocottus","Pycnogonida"
+"268","Clinocottus","Ostracoda"
+"269","Clinocottus","Harpacticidae"
+"270","Clinocottus","Sphaeromatidae"
+"271","Clinocottus","Limnoria"
+"272","Clinocottus","Idoteidae"
+"273","Clinocottus","Gammaridea"
+"274","Clinocottus","Caprellidae"
+"275","Clinocottus","Hippolytidae"
+"276","Clinocottus","Paguridae"
+"277","Clinocottus","Pugettia"
+"278","Clinocottus","Detritus complex"
+"279","Hemilepidotus hemilepidotus","Ophiuroidea"
+"280","Hemilepidotus hemilepidotus","Mytilus"
+"281","Hemilepidotus hemilepidotus","Sphaeromatidae"
+"282","Hemilepidotus hemilepidotus","Gammaridea"
+"283","Hemilepidotus hemilepidotus","Paguridae"
+"284","Hemilepidotus hemilepidotus","Pugettia"
+"285","Hemilepidotus hemilepidotus","Detritus complex"
+"286","Oligocottus maculosus","Lottia pelta"
+"287","Oligocottus maculosus","Cryptochiton stelleri"
+"288","Oligocottus maculosus","Harpacticidae"
+"289","Oligocottus maculosus","Sphaeromatidae"
+"290","Oligocottus maculosus","Gammaridea"
+"291","Oligocottus maculosus","Paguridae"
+"292","Trichodon trichodon","Gammaridea"
+"293","Anoplarchus purpurescens","Colpomenia"
+"294","Anoplarchus purpurescens","Porphyra"
+"295","Anoplarchus purpurescens","Cucumaria"
+"296","Anoplarchus purpurescens","Ulvaceae"
+"297","Anoplarchus purpurescens","Acrosiphoniaceae"
+"298","Anoplarchus purpurescens","Littorina"
+"299","Anoplarchus purpurescens","Pycnogonida"
+"300","Anoplarchus purpurescens","Gammaridea"
+"301","Xiphister atropurpureus","Desmarestia"
+"302","Xiphister atropurpureus","Porphyra"
+"303","Xiphister atropurpureus","Odonthalia"
+"304","Xiphister atropurpureus","Ulvaceae"
+"305","Xiphister atropurpureus","Acrosiphoniaceae"
+"306","Xiphister atropurpureus","Ostracoda"
+"307","Xiphister atropurpureus","Gammaridea"
+"308","Xiphister atropurpureus","Caprellidae"
+"309","Xiphister atropurpureus","Hippolytidae"
+"310","Xiphister atropurpureus","Paguridae"
+"311","Xiphister mucosus","Porphyra"
+"312","Xiphister mucosus","Microcladia"
+"313","Xiphister mucosus","Polysiphonia"
+"314","Xiphister mucosus","Bacillariophyta"
+"315","Xiphister mucosus","Ulvaceae"
+"316","Xiphister mucosus","Acrosiphoniaceae"
+"317","Xiphister mucosus","Sphaeromatidae"
+"318","Xiphister mucosus","Gammaridea"
+"319","Xiphister mucosus","Mastocarpus"
+"320","Pholis","Strongylocentrotus droebachiensis"
+"321","Pholis","Lacuna"
+"322","Pholis","Ostracoda"
+"323","Pholis","Sphaeromatidae"
+"324","Pholis","Idoteidae"
+"325","Pholis","Gammaridea"
+"326","Pholis","Caprellidae"
+"327","Pholis","Detritus complex"
+"328","Ammodytes hexapterus","Harpacticidae"
+"329","Ammodytes hexapterus","Gammaridea"
+"330","Homo sapiens","Alaria"
+"331","Homo sapiens","Fucus"
+"332","Homo sapiens","Porphyra"
+"333","Homo sapiens","Palmaria"
+"334","Homo sapiens","Chrysophyta"
+"335","Homo sapiens","Strongylocentrotus droebachiensis"
+"336","Homo sapiens","Cucumaria"
+"337","Homo sapiens","Styela"
+"338","Homo sapiens","Pyura"
+"339","Homo sapiens","Hypomesus pretiosus"
+"340","Homo sapiens","Trichodon trichodon"
+"341","Homo sapiens","Enhydra lutris"
+"342","Homo sapiens","Vulpes"
+"343","Homo sapiens","Eumetopias jubatus"
+"344","Homo sapiens","Phoca vitulina"
+"345","Homo sapiens","Anthopleura"
+"346","Homo sapiens","Epiactis"
+"347","Homo sapiens","Urticina"
+"348","Homo sapiens","Enteroctopus dofleini"
+"349","Homo sapiens","Pharidae"
+"350","Homo sapiens","Lottia persona"
+"351","Homo sapiens","Lineidae"
+"352","Homo sapiens","Ulvaceae"
+"353","Homo sapiens","Balanus nubilus"
+"354","Homo sapiens","Littorina"
+"355","Homo sapiens","Naticidae"
+"356","Homo sapiens","Fusitriton"
+"357","Homo sapiens","Nucella canaliculata"
+"358","Homo sapiens","Nucella lamellosa"
+"359","Homo sapiens","Nucella lima"
+"360","Homo sapiens","Buccinum"
+"361","Homo sapiens","Katharina tunicata"
+"362","Homo sapiens","Cryptochiton stelleri"
+"363","Homo sapiens","Mytilus"
+"364","Homo sapiens","Modiolus"
+"365","Homo sapiens","Pododesmus"
+"366","Homo sapiens","Clinocardium"
+"367","Homo sapiens","Tresus"
+"368","Homo sapiens","Mactromeris"
+"369","Homo sapiens","Macoma"
+"370","Homo sapiens","Saxidomus"
+"371","Homo sapiens","Protothaca staminea"
+"372","Homo sapiens","Hiatellidae"
+"373","Homo sapiens","Entodesma"
+"374","Homo sapiens","Balanus glandula"
+"375","Homo sapiens","Hippolytidae"
+"376","Homo sapiens","Telmessus cheiragonus"
+"377","Homo sapiens","Cancer"
+"378","Homo sapiens","Detritus complex"
+"379","Homo sapiens","Gavia"
+"380","Homo sapiens","Diomedeidae"
+"381","Homo sapiens","Phalacrocorax pelagicus"
+"382","Homo sapiens","Branta canadensis"
+"383","Homo sapiens","Branta bernicla"
+"384","Homo sapiens","Chen canagica"
+"385","Homo sapiens","Anas"
+"386","Homo sapiens","Somateria mollissima"
+"387","Homo sapiens","Somateria spectabilis"
+"388","Homo sapiens","Mergus"
+"389","Homo sapiens","Tringa melanoleuca"
+"390","Homo sapiens","Gallinago"
+"391","Homo sapiens","Larus hyperboreus"
+"392","Homo sapiens","Larus glaucescens"
+"393","Homo sapiens","Uria lomvia"
+"394","Homo sapiens","Synthliboramphus antiquus"
+"395","Homo sapiens","Ptychoramphus aleuticus"
+"396","Homo sapiens","Aethia cristatella"
+"397","Homo sapiens","Fratercula corniculata"
+"398","Homo sapiens","Fratercula cirrhata"
+"399","Homo sapiens","Bubo scandiacus"
+"400","Enhydra lutris","Phascolosomatidae"
+"401","Enhydra lutris","Evasterias troschelii"
+"402","Enhydra lutris","Pycnopodia helianthoides"
+"403","Enhydra lutris","Strongylocentrotus droebachiensis"
+"404","Enhydra lutris","Cucumaria"
+"405","Enhydra lutris","Ammodytes hexapterus"
+"406","Enhydra lutris","Enteroctopus dofleini"
+"407","Enhydra lutris","Pharidae"
+"408","Enhydra lutris","Trochidae"
+"409","Enhydra lutris","Naticidae"
+"410","Enhydra lutris","Nucella lamellosa"
+"411","Enhydra lutris","Katharina tunicata"
+"412","Enhydra lutris","Cryptochiton stelleri"
+"413","Enhydra lutris","Mytilus"
+"414","Enhydra lutris","Modiolus"
+"415","Enhydra lutris","Pododesmus"
+"416","Enhydra lutris","Clinocardium"
+"417","Enhydra lutris","Tresus"
+"418","Enhydra lutris","Mactromeris"
+"419","Enhydra lutris","Macoma"
+"420","Enhydra lutris","Saxidomus"
+"421","Enhydra lutris","Protothaca staminea"
+"422","Enhydra lutris","Hiatellidae"
+"423","Enhydra lutris","Entodesma"
+"424","Enhydra lutris","Crangonidae"
+"425","Enhydra lutris","Paguridae"
+"426","Enhydra lutris","Pugettia"
+"427","Enhydra lutris","Telmessus cheiragonus"
+"428","Enhydra lutris","Cancer"
+"429","Enhydra lutris","Gavia"
+"430","Enhydra lutris","Anas"
+"431","Enhydra lutris","Melanitta perspicillata"
+"432","Vulpes","Staphylinidae"
+"433","Vulpes","Pholis"
+"434","Vulpes","Ammodytes hexapterus"
+"435","Vulpes","Enhydra lutris"
+"436","Vulpes","Vulpes"
+"437","Vulpes","Eumetopias jubatus"
+"438","Vulpes","Nereididae"
+"439","Vulpes","Mytilus"
+"440","Vulpes","Gammaridea"
+"441","Vulpes","Detritus complex"
+"442","Vulpes","Gavia"
+"443","Vulpes","Fulmarus glacialis"
+"444","Vulpes","Puffinus tenuirostris"
+"445","Vulpes","Oceanodroma"
+"446","Vulpes","Phalacrocorax auritus"
+"447","Vulpes","Phalacrocorax pelagicus"
+"448","Vulpes","Cygnus columbianus"
+"449","Vulpes","Branta canadensis"
+"450","Vulpes","Branta bernicla"
+"451","Vulpes","Chen canagica"
+"452","Vulpes","Anas"
+"453","Vulpes","Aythya marila"
+"454","Vulpes","Clangula hyemalis"
+"455","Vulpes","Polysticta stelleri"
+"456","Vulpes","Somateria mollissima"
+"457","Vulpes","Somateria spectabilis"
+"458","Vulpes","Buteo lagopus"
+"459","Vulpes","Charadrius semipalmatus"
+"460","Vulpes","Calidris"
+"461","Vulpes","Limosa lapponica"
+"462","Vulpes","Phalaropus lobatus"
+"463","Vulpes","Stercorarius parasiticus"
+"464","Vulpes","Larus hyperboreus"
+"465","Vulpes","Larus glaucescens"
+"466","Vulpes","Larus canus"
+"467","Vulpes","Rissa tridactyla"
+"468","Vulpes","Sterna"
+"469","Vulpes","Uria aalge"
+"470","Vulpes","Uria lomvia"
+"471","Vulpes","Cepphus columba"
+"472","Vulpes","Synthliboramphus antiquus"
+"473","Vulpes","Ptychoramphus aleuticus"
+"474","Vulpes","Aethia cristatella"
+"475","Vulpes","Fratercula corniculata"
+"476","Vulpes","Fratercula cirrhata"
+"477","Vulpes","Melospiza melodia"
+"478","Vulpes","Calcarius lapponicus"
+"479","Vulpes","Plectrophenax"
+"480","Vulpes","Aethia psittacula"
+"481","Vulpes","Bubo scandiacus"
+"482","Eumetopias jubatus","Hypomesus pretiosus"
+"483","Eumetopias jubatus","Gasterosteus aculeatus"
+"484","Eumetopias jubatus","Artedius"
+"485","Eumetopias jubatus","Hemilepidotus hemilepidotus"
+"486","Eumetopias jubatus","Oligocottus maculosus"
+"487","Eumetopias jubatus","Trichodon trichodon"
+"488","Eumetopias jubatus","Anoplarchus purpurescens"
+"489","Eumetopias jubatus","Xiphister atropurpureus"
+"490","Eumetopias jubatus","Xiphister mucosus"
+"491","Eumetopias jubatus","Pholis"
+"492","Eumetopias jubatus","Ammodytes hexapterus"
+"493","Eumetopias jubatus","Enhydra lutris"
+"494","Eumetopias jubatus","Phoca vitulina"
+"495","Eumetopias jubatus","Enteroctopus dofleini"
+"496","Eumetopias jubatus","Cancer"
+"497","Eumetopias jubatus","Ptychoramphus aleuticus"
+"498","Phoca vitulina","Hypomesus pretiosus"
+"499","Phoca vitulina","Gasterosteus aculeatus"
+"500","Phoca vitulina","Hemilepidotus hemilepidotus"
+"501","Phoca vitulina","Trichodon trichodon"
+"502","Phoca vitulina","Anoplarchus purpurescens"
+"503","Phoca vitulina","Pholis"
+"504","Phoca vitulina","Ammodytes hexapterus"
+"505","Phoca vitulina","Enteroctopus dofleini"
+"506","Phoca vitulina","Mytilus"
+"507","Phoca vitulina","Crangonidae"
+"508","Phoca vitulina","Paguridae"
+"509","Phoca vitulina","Cancer"
+"510","Foraminiferida","Bacteria"
+"511","Foraminiferida","Bacillariophyta"
+"512","Foraminiferida","Foraminiferida"
+"513","Foraminiferida","Radiolaria"
+"514","Foraminiferida","Ciliophora"
+"515","Radiolaria","Bacillariophyta"
+"516","Radiolaria","Foraminiferida"
+"517","Radiolaria","Radiolaria"
+"518","Radiolaria","Ciliophora"
+"519","Radiolaria","Ostracoda"
+"520","Ciliophora","Chrysophyta"
+"521","Ciliophora","Gasterosteus aculeatus"
+"522","Ciliophora","Bacteria"
+"523","Ciliophora","Prymnesiophyceae"
+"524","Ciliophora","Bacillariophyta"
+"525","Ciliophora","Ciliophora"
+"526","Ciliophora","Cyanophycota"
+"527","Ciliophora","Prasinophyta"
+"528","Ciliophora","Dinophyceae"
+"529","Haliclona","Bacteria"
+"530","Haliclona","Detritus complex"
+"531","Ophlitaspongia","Detritus complex"
+"532","Halichondria panicea","Bacteria"
+"533","Halichondria panicea","Detritus complex"
+"534","Hydrozoa","Bacteria"
+"535","Hydrozoa","Bacillariophyta"
+"536","Hydrozoa","Foraminiferida"
+"537","Hydrozoa","Ciliophora"
+"538","Hydrozoa","Hydrozoa"
+"539","Hydrozoa","Polynoidae"
+"540","Hydrozoa","Ostracoda"
+"541","Hydrozoa","Gammaridea"
+"542","Hydrozoa","Caprellidae"
+"543","Hydrozoa","Euphausiidae"
+"544","Hydrozoa","Pugettia"
+"545","Hydrozoa","Dinophyceae"
+"546","Hydrozoa","Detritus complex"
+"547","Anthopleura","Gymnolaemata"
+"548","Anthopleura","Bacillariophyta"
+"549","Anthopleura","Foraminiferida"
+"550","Anthopleura","Hydrozoa"
+"551","Anthopleura","Anthopleura"
+"552","Anthopleura","Lottia scutum"
+"553","Anthopleura","Trochidae"
+"554","Anthopleura","Littorina"
+"555","Anthopleura","Mytilus"
+"556","Anthopleura","Protothaca staminea"
+"557","Anthopleura","Balanus glandula"
+"558","Anthopleura","Semibalanus cariosus"
+"559","Anthopleura","Paguridae"
+"560","Anthopleura","Pugettia"
+"561","Anthopleura","Cancer"
+"562","Anthopleura","Detritus complex"
+"563","Epiactis","Caprellidae"
+"564","Epiactis","Detritus complex"
+"565","Urticina","Dermasterias imbricata"
+"566","Urticina","Hemilepidotus hemilepidotus"
+"567","Urticina","Epiactis"
+"568","Urticina","Mytilus"
+"569","Urticina","Telmessus cheiragonus"
+"570","Metridium senile","Gymnolaemata"
+"571","Metridium senile","Bacillariophyta"
+"572","Metridium senile","Foraminiferida"
+"573","Metridium senile","Ostracoda"
+"574","Metridium senile","Harpacticidae"
+"575","Metridium senile","Chthamalus dalli"
+"576","Metridium senile","Balanus glandula"
+"577","Metridium senile","Semibalanus cariosus"
+"578","Metridium senile","Gammaridea"
+"579","Metridium senile","Caprellidae"
+"580","Metridium senile","Detritus complex"
+"581","Enteroctopus dofleini","Strongylocentrotus droebachiensis"
+"582","Enteroctopus dofleini","Enteroctopus dofleini"
+"583","Enteroctopus dofleini","Littorina"
+"584","Enteroctopus dofleini","Trichotropis cancellata"
+"585","Enteroctopus dofleini","Naticidae"
+"586","Enteroctopus dofleini","Nucella lima"
+"587","Enteroctopus dofleini","Tonicella"
+"588","Enteroctopus dofleini","Mytilus"
+"589","Enteroctopus dofleini","Pododesmus"
+"590","Enteroctopus dofleini","Macoma"
+"591","Enteroctopus dofleini","Saxidomus"
+"592","Enteroctopus dofleini","Protothaca staminea"
+"593","Enteroctopus dofleini","Semibalanus cariosus"
+"594","Enteroctopus dofleini","Pugettia"
+"595","Enteroctopus dofleini","Telmessus cheiragonus"
+"596","Enteroctopus dofleini","Cancer"
+"597","Pharidae","Detritus complex"
+"598","Lottia digitalis","Fucus"
+"599","Lottia digitalis","Bangia"
+"600","Lottia digitalis","Bacillariophyta"
+"601","Lottia digitalis","Cyanophycota"
+"602","Lottia digitalis","Acrosiphoniaceae"
+"603","Lottia digitalis","Cladophoraceae"
+"604","Lottia digitalis","Chthamalus dalli"
+"605","Lottia digitalis","Balanus crenatus"
+"606","Lottia digitalis","Balanus glandula"
+"607","Lottia digitalis","Semibalanus cariosus"
+"608","Lottia digitalis","Mastocarpus"
+"609","Lottia digitalis","Mazzaella"
+"610","Lottia digitalis","Biofilm Complex"
+"611","Lottia pelta","Bacillariophyta"
+"612","Lottia pelta","Cyanophycota"
+"613","Lottia pelta","Cladophoraceae"
+"614","Lottia pelta","Chthamalus dalli"
+"615","Lottia pelta","Balanus glandula"
+"616","Lottia pelta","Semibalanus cariosus"
+"617","Lottia pelta","Mastocarpus"
+"618","Lottia pelta","Mazzaella"
+"619","Lottia pelta","Phaeophyta Crust"
+"620","Lottia pelta","Crustose coralline algae complex"
+"621","Lottia pelta","Biofilm Complex"
+"622","Lottia pelta","Red crust complex"
+"623","Lottia persona","Bacillariophyta"
+"624","Lottia persona","Biofilm Complex"
+"625","Lottia scutum","Pilayella littoralis"
+"626","Lottia scutum","Saccharina sessile"
+"627","Lottia scutum","Porphyra"
+"628","Lottia scutum","Odonthalia"
+"629","Lottia scutum","Bacillariophyta"
+"630","Lottia scutum","Foraminiferida"
+"631","Lottia scutum","Cyanophycota"
+"632","Lottia scutum","Ulvaceae"
+"633","Lottia scutum","Chthamalus dalli"
+"634","Lottia scutum","Balanus glandula"
+"635","Lottia scutum","Semibalanus cariosus"
+"636","Lottia scutum","Mastocarpus"
+"637","Lottia scutum","Phaeophyta Crust"
+"638","Lottia scutum","Crustose coralline algae complex"
+"639","Lottia scutum","Detritus complex"
+"640","Lottia scutum","Biofilm Complex"
+"641","Lottia scutum","Red crust complex"
+"642","Lineidae","Lineidae"
+"643","Lineidae","Emplectonematidae"
+"644","Lineidae","Polynoidae"
+"645","Lineidae","Nereididae"
+"646","Emplectonematidae","Lottia digitalis"
+"647","Emplectonematidae","Lottia pelta"
+"648","Emplectonematidae","Polynoidae"
+"649","Emplectonematidae","Nereididae"
+"650","Emplectonematidae","Lumbrineridae"
+"651","Emplectonematidae","Terebellidae"
+"652","Emplectonematidae","Nucella lamellosa"
+"653","Emplectonematidae","Chthamalus dalli"
+"654","Emplectonematidae","Balanus glandula"
+"655","Emplectonematidae","Semibalanus cariosus"
+"656","Amphiporidae","Littorina"
+"657","Amphiporidae","Idoteidae"
+"658","Amphiporidae","Gammaridea"
+"659","Amphiporidae","Caprellidae"
+"660","Polynoidae","Gymnolaemata"
+"661","Polynoidae","Prymnesiophyceae"
+"662","Polynoidae","Bacillariophyta"
+"663","Polynoidae","Radiolaria"
+"664","Polynoidae","Ciliophora"
+"665","Polynoidae","Hydrozoa"
+"666","Polynoidae","Polynoidae"
+"667","Polynoidae","Pycnogonida"
+"668","Polynoidae","Ostracoda"
+"669","Polynoidae","Limnoria"
+"670","Polynoidae","Gammaridea"
+"671","Polynoidae","Detritus complex"
+"672","Balanus nubilus","Bacillariophyta"
+"673","Balanus nubilus","Sarcomastigophora"
+"674","Balanus nubilus","Foraminiferida"
+"675","Balanus nubilus","Detritus complex"
+"676","Nereididae","Laminaria"
+"677","Nereididae","Fucus"
+"678","Nereididae","Odonthalia"
+"679","Nereididae","Bacillariophyta"
+"680","Nereididae","Zostera marina"
+"681","Nereididae","Foraminiferida"
+"682","Nereididae","Hydrozoa"
+"683","Nereididae","Ulvaceae"
+"684","Nereididae","Nereididae"
+"685","Nereididae","Macoma"
+"686","Nereididae","Limnoria"
+"687","Nereididae","Gammaridea"
+"688","Nereididae","Detritus complex"
+"689","Glyceridae","Polynoidae"
+"690","Glyceridae","Nereididae"
+"691","Glyceridae","Macoma"
+"692","Glyceridae","Gammaridea"
+"693","Glyceridae","Detritus complex"
+"694","Lumbrineridae","Ophiuroidea"
+"695","Lumbrineridae","Foraminiferida"
+"696","Lumbrineridae","Lumbrineridae"
+"697","Lumbrineridae","Flabelligeridae"
+"698","Lumbrineridae","Detritus complex"
+"699","Flabelligeridae","Detritus complex"
+"700","Terebellidae","Bacteria"
+"701","Terebellidae","Bacillariophyta"
+"702","Terebellidae","Ulvaceae"
+"703","Terebellidae","Detritus complex"
+"704","Sabellidae","Detritus complex"
+"705","Acmaea mitra","Saccharina sessile"
+"706","Acmaea mitra","Alaria"
+"707","Acmaea mitra","Corallina"
+"708","Acmaea mitra","Microcladia"
+"709","Acmaea mitra","Crustose coralline algae complex"
+"710","Acmaea mitra","Biofilm Complex"
+"711","Trochidae","Laminaria"
+"712","Trochidae","Agarum"
+"713","Trochidae","Costaria costata"
+"714","Trochidae","Saccharina sessile"
+"715","Trochidae","Nereocystis luetkeana"
+"716","Trochidae","Alaria"
+"717","Trochidae","Fucus"
+"718","Trochidae","Cystoseira"
+"719","Trochidae","Colpomenia"
+"720","Trochidae","Corallina"
+"721","Trochidae","Microcladia"
+"722","Trochidae","Bacillariophyta"
+"723","Trochidae","Ulvaceae"
+"724","Trochidae","Cladophoraceae"
+"725","Trochidae","Codiaceae"
+"726","Trochidae","Mastocarpus"
+"727","Trochidae","Mazzaella"
+"728","Trochidae","Phaeophyta Crust"
+"729","Trochidae","Crustose coralline algae complex"
+"730","Trochidae","Biofilm Complex"
+"731","Trochidae","Red crust complex"
+"732","Lacuna","Laminaria"
+"733","Lacuna","Costaria costata"
+"734","Lacuna","Saccharina sessile"
+"735","Lacuna","Nereocystis luetkeana"
+"736","Lacuna","Alaria"
+"737","Lacuna","Fucus"
+"738","Lacuna","Bacillariophyta"
+"739","Lacuna","Mastocarpus"
+"740","Lacuna","Neorhodomela"
+"741","Lacuna","Detritus complex"
+"742","Lacuna","Biofilm Complex"
+"743","Littorina","Laminaria"
+"744","Littorina","Agarum"
+"745","Littorina","Desmarestia"
+"746","Littorina","Fucus"
+"747","Littorina","Cystoseira"
+"748","Littorina","Colpomenia"
+"749","Littorina","Porphyra"
+"750","Littorina","Polysiphonia"
+"751","Littorina","Odonthalia"
+"752","Littorina","Caloplaca"
+"753","Littorina","Verrucaria"
+"754","Littorina","Strongylocentrotus droebachiensis"
+"755","Littorina","Bacillariophyta"
+"756","Littorina","Foraminiferida"
+"757","Littorina","Cyanophycota"
+"758","Littorina","Ulvaceae"
+"759","Littorina","Acrosiphoniaceae"
+"760","Littorina","Cladophoraceae"
+"761","Littorina","Codiaceae"
+"762","Littorina","Prasinophyta"
+"763","Littorina","Mastocarpus"
+"764","Littorina","Mazzaella"
+"765","Littorina","Neorhodomela"
+"766","Littorina","Phaeophyta Crust"
+"767","Littorina","Crustose coralline algae complex"
+"768","Littorina","Detritus complex"
+"769","Littorina","Biofilm Complex"
+"770","Littorina","Red crust complex"
+"771","Cerithiopsis","Halichondria panicea"
+"772","Cerithiopsis","Biofilm Complex"
+"773","Trichotropis cancellata","Sabellidae"
+"774","Trichotropis cancellata","Detritus complex"
+"775","Velutina","Biofilm Complex"
+"776","Naticidae","Chrysophyta"
+"777","Naticidae","Prymnesiophyceae"
+"778","Naticidae","Bacillariophyta"
+"779","Naticidae","Ulvaceae"
+"780","Naticidae","Naticidae"
+"781","Naticidae","Buccinum"
+"782","Naticidae","Tresus"
+"783","Naticidae","Macoma"
+"784","Naticidae","Saxidomus"
+"785","Naticidae","Protothaca staminea"
+"786","Naticidae","Detritus complex"
+"787","Naticidae","Biofilm Complex"
+"788","Fusitriton","Terebratalia transversa"
+"789","Fusitriton","Solaster stimpsoni"
+"790","Fusitriton","Leptasterias"
+"791","Fusitriton","Ophiuroidea"
+"792","Fusitriton","Strongylocentrotus droebachiensis"
+"793","Fusitriton","Styela"
+"794","Fusitriton","Pyura"
+"795","Fusitriton","Sabellidae"
+"796","Fusitriton","Acmaea mitra"
+"797","Fusitriton","Naticidae"
+"798","Fusitriton","Fusitriton"
+"799","Fusitriton","Tonicella"
+"800","Fusitriton","Katharina tunicata"
+"801","Fusitriton","Cryptochiton stelleri"
+"802","Fusitriton","Mytilus"
+"803","Fusitriton","Clinocardium"
+"804","Fusitriton","Detritus complex"
+"805","Nucella canaliculata","Mytilus"
+"806","Nucella canaliculata","Chthamalus dalli"
+"807","Nucella canaliculata","Balanus glandula"
+"808","Nucella canaliculata","Semibalanus cariosus"
+"809","Nucella lamellosa","Pyura"
+"810","Nucella lamellosa","Lottia pelta"
+"811","Nucella lamellosa","Trichotropis cancellata"
+"812","Nucella lamellosa","Mytilus"
+"813","Nucella lamellosa","Chthamalus dalli"
+"814","Nucella lamellosa","Balanus glandula"
+"815","Nucella lamellosa","Semibalanus balanoides"
+"816","Nucella lamellosa","Semibalanus cariosus"
+"817","Nucella lima","Lottia pelta"
+"818","Nucella lima","Littorina"
+"819","Nucella lima","Mytilus"
+"820","Nucella lima","Balanus glandula"
+"821","Nucella lima","Semibalanus balanoides"
+"822","Nucella lima","Semibalanus cariosus"
+"823","Buccinum","Strongylocentrotus droebachiensis"
+"824","Buccinum","Polynoidae"
+"825","Buccinum","Terebellidae"
+"826","Buccinum","Buccinum"
+"827","Buccinum","Mytilus"
+"828","Buccinum","Clinocardium"
+"829","Buccinum","Mactromeris"
+"830","Buccinum","Gammaridea"
+"831","Buccinum","Cancer"
+"832","Buccinum","Detritus complex"
+"833","Siphonaria thersites","Fucus"
+"834","Siphonaria thersites","Ulvaceae"
+"835","Siphonaria thersites","Biofilm Complex"
+"836","Diaulula sandiegensis","Haliclona"
+"837","Diaulula sandiegensis","Halichondria panicea"
+"838","Rostanga pulchra","Ophlitaspongia"
+"839","Archidoris montereyensis","Haliclona"
+"840","Archidoris montereyensis","Halichondria panicea"
+"841","Archidoris odhneri","Haliclona"
+"842","Archidoris odhneri","Halichondria panicea"
+"843","Triopha catalinae","Gymnolaemata"
+"844","Hermissenda crassicornis","Gymnolaemata"
+"845","Hermissenda crassicornis","Hydrozoa"
+"846","Hermissenda crassicornis","Anthopleura"
+"847","Hermissenda crassicornis","Hermissenda crassicornis"
+"848","Hermissenda crassicornis","Detritus complex"
+"849","Aeolidia papillosa","Hydrozoa"
+"850","Aeolidia papillosa","Anthopleura"
+"851","Aeolidia papillosa","Epiactis"
+"852","Aeolidia papillosa","Urticina"
+"853","Aeolidia papillosa","Metridium senile"
+"854","Onchidella","Bacillariophyta"
+"855","Onchidella","Biofilm Complex"
+"856","Leptochiton rugatus","Bacteria"
+"857","Leptochiton rugatus","Bacillariophyta"
+"858","Leptochiton rugatus","Cyanophycota"
+"859","Leptochiton rugatus","Detritus complex"
+"860","Leptochiton rugatus","Biofilm Complex"
+"861","Tonicella","Corallina"
+"862","Tonicella","Gymnolaemata"
+"863","Tonicella","Bacillariophyta"
+"864","Tonicella","Crustose coralline algae complex"
+"865","Tonicella","Biofilm Complex"
+"866","Katharina tunicata","Saccharina sessile"
+"867","Katharina tunicata","Alaria"
+"868","Katharina tunicata","Fucus"
+"869","Katharina tunicata","Porphyra"
+"870","Katharina tunicata","Corallina"
+"871","Katharina tunicata","Bossiella"
+"872","Katharina tunicata","Microcladia"
+"873","Katharina tunicata","Polysiphonia"
+"874","Katharina tunicata","Odonthalia"
+"875","Katharina tunicata","Verrucaria"
+"876","Katharina tunicata","Gymnolaemata"
+"877","Katharina tunicata","Bacillariophyta"
+"878","Katharina tunicata","Foraminiferida"
+"879","Katharina tunicata","Halichondria panicea"
+"880","Katharina tunicata","Hydrozoa"
+"881","Katharina tunicata","Cyanophycota"
+"882","Katharina tunicata","Ulvaceae"
+"883","Katharina tunicata","Acrosiphoniaceae"
+"884","Katharina tunicata","Lacuna"
+"885","Katharina tunicata","Chthamalus dalli"
+"886","Katharina tunicata","Mazzaella"
+"887","Katharina tunicata","Neorhodomela"
+"888","Katharina tunicata","Phaeophyta Crust"
+"889","Katharina tunicata","Crustose coralline algae complex"
+"890","Katharina tunicata","Biofilm Complex"
+"891","Katharina tunicata","Red crust complex"
+"892","Katharina tunicata","Chlorophyta Crust"
+"893","Mopalia","Corallina"
+"894","Mopalia","Gymnolaemata"
+"895","Mopalia","Bacillariophyta"
+"896","Mopalia","Foraminiferida"
+"897","Mopalia","Ciliophora"
+"898","Mopalia","Hydrozoa"
+"899","Mopalia","Ulvaceae"
+"900","Mopalia","Nucella lamellosa"
+"901","Mopalia","Mastocarpus"
+"902","Mopalia","Phaeophyta Crust"
+"903","Mopalia","Crustose coralline algae complex"
+"904","Mopalia","Detritus complex"
+"905","Mopalia","Biofilm Complex"
+"906","Cryptochiton stelleri","Costaria costata"
+"907","Cryptochiton stelleri","Saccharina sessile"
+"908","Cryptochiton stelleri","Alaria"
+"909","Cryptochiton stelleri","Odonthalia"
+"910","Cryptochiton stelleri","Ulvaceae"
+"911","Cryptochiton stelleri","Acrosiphoniaceae"
+"912","Cryptochiton stelleri","Fusitriton"
+"913","Cryptochiton stelleri","Mastocarpus"
+"914","Cryptochiton stelleri","Biofilm Complex"
+"915","Mytilus","Prymnesiophyceae"
+"916","Mytilus","Bacillariophyta"
+"917","Mytilus","Sarcomastigophora"
+"918","Mytilus","Lottia scutum"
+"919","Mytilus","Ulvaceae"
+"920","Mytilus","Dinophyceae"
+"921","Mytilus","Detritus complex"
+"922","Modiolus","Detritus complex"
+"923","Pododesmus","Detritus complex"
+"924","Clinocardium","Chrysophyta"
+"925","Clinocardium","Prymnesiophyceae"
+"926","Clinocardium","Bacillariophyta"
+"927","Clinocardium","Prasinophyta"
+"928","Clinocardium","Detritus complex"
+"929","Tresus","Detritus complex"
+"930","Mactromeris","Detritus complex"
+"931","Macoma","Bacteria"
+"932","Macoma","Bacillariophyta"
+"933","Macoma","Sarcomastigophora"
+"934","Macoma","Cyanophycota"
+"935","Macoma","Dinophyceae"
+"936","Macoma","Detritus complex"
+"937","Saxidomus","Detritus complex"
+"938","Protothaca staminea","Detritus complex"
+"939","Hiatellidae","Detritus complex"
+"940","Entodesma","Detritus complex"
+"941","Prostigmata","Detritus complex"
+"942","Pycnogonida","Gymnolaemata"
+"943","Pycnogonida","Cucumaria"
+"944","Pycnogonida","Foraminiferida"
+"945","Pycnogonida","Halichondria panicea"
+"946","Pycnogonida","Hydrozoa"
+"947","Pycnogonida","Anthopleura"
+"948","Pycnogonida","Urticina"
+"949","Pycnogonida","Metridium senile"
+"950","Pycnogonida","Sabellidae"
+"951","Pycnogonida","Detritus complex"
+"952","Ostracoda","Bacteria"
+"953","Ostracoda","Cyanophycota"
+"954","Ostracoda","Detritus complex"
+"955","Harpacticidae","Bacillariophyta"
+"956","Harpacticidae","Detritus complex"
+"957","Chthamalus dalli","Detritus complex"
+"958","Balanus crenatus","Bacillariophyta"
+"959","Balanus crenatus","Detritus complex"
+"960","Balanus glandula","Bacillariophyta"
+"961","Balanus glandula","Detritus complex"
+"962","Semibalanus balanoides","Chrysophyta"
+"963","Semibalanus balanoides","Bacillariophyta"
+"964","Semibalanus balanoides","Sarcomastigophora"
+"965","Semibalanus balanoides","Ciliophora"
+"966","Semibalanus balanoides","Dinophyceae"
+"967","Semibalanus balanoides","Detritus complex"
+"968","Semibalanus cariosus","Bacillariophyta"
+"969","Semibalanus cariosus","Foraminiferida"
+"970","Semibalanus cariosus","Mytilus"
+"971","Semibalanus cariosus","Ostracoda"
+"972","Semibalanus cariosus","Detritus complex"
+"973","Sphaeromatidae","Fucus"
+"974","Sphaeromatidae","Cystoseira"
+"975","Sphaeromatidae","Polysiphonia"
+"976","Sphaeromatidae","Bacillariophyta"
+"977","Sphaeromatidae","Ulvaceae"
+"978","Sphaeromatidae","Cladophoraceae"
+"979","Sphaeromatidae","Detritus complex"
+"980","Limnoria","Detritus complex"
+"981","Idoteidae","Pilayella littoralis"
+"982","Idoteidae","Laminaria"
+"983","Idoteidae","Costaria costata"
+"984","Idoteidae","Saccharina sessile"
+"985","Idoteidae","Nereocystis luetkeana"
+"986","Idoteidae","Alaria"
+"987","Idoteidae","Fucus"
+"988","Idoteidae","Porphyra"
+"989","Idoteidae","Corallina"
+"990","Idoteidae","Palmaria"
+"991","Idoteidae","Odonthalia"
+"992","Idoteidae","Bacillariophyta"
+"993","Idoteidae","Zostera marina"
+"994","Idoteidae","Hydrozoa"
+"995","Idoteidae","Cyanophycota"
+"996","Idoteidae","Ulvaceae"
+"997","Idoteidae","Acrosiphoniaceae"
+"998","Idoteidae","Cladophoraceae"
+"999","Idoteidae","Codiaceae"
+"1000","Idoteidae","Nucella lamellosa"
+"1001","Idoteidae","Mastocarpus"
+"1002","Idoteidae","Neorhodomela"
+"1003","Idoteidae","Detritus complex"
+"1004","Gammaridea","Pilayella littoralis"
+"1005","Gammaridea","Laminaria"
+"1006","Gammaridea","Alaria"
+"1007","Gammaridea","Desmarestia"
+"1008","Gammaridea","Fucus"
+"1009","Gammaridea","Cystoseira"
+"1010","Gammaridea","Porphyra"
+"1011","Gammaridea","Corallina"
+"1012","Gammaridea","Palmaria"
+"1013","Gammaridea","Polysiphonia"
+"1014","Gammaridea","Odonthalia"
+"1015","Gammaridea","Cucumaria"
+"1016","Gammaridea","Bacteria"
+"1017","Gammaridea","Bacillariophyta"
+"1018","Gammaridea","Zostera marina"
+"1019","Gammaridea","Ciliophora"
+"1020","Gammaridea","Cyanophycota"
+"1021","Gammaridea","Ulvaceae"
+"1022","Gammaridea","Acrosiphoniaceae"
+"1023","Gammaridea","Cladophoraceae"
+"1024","Gammaridea","Codiaceae"
+"1025","Gammaridea","Macoma"
+"1026","Gammaridea","Ostracoda"
+"1027","Gammaridea","Gammaridea"
+"1028","Gammaridea","Dinophyceae"
+"1029","Gammaridea","Mazzaella"
+"1030","Gammaridea","Neorhodomela"
+"1031","Gammaridea","Detritus complex"
+"1032","Gammaridea","Biofilm Complex"
+"1033","Caprellidae","Fucus"
+"1034","Caprellidae","Microcladia"
+"1035","Caprellidae","Bacillariophyta"
+"1036","Caprellidae","Detritus complex"
+"1037","Caprellidae","Biofilm Complex"
+"1038","Euphausiidae","Prymnesiophyceae"
+"1039","Euphausiidae","Bacillariophyta"
+"1040","Euphausiidae","Sarcomastigophora"
+"1041","Euphausiidae","Foraminiferida"
+"1042","Euphausiidae","Radiolaria"
+"1043","Euphausiidae","Ciliophora"
+"1044","Euphausiidae","Hydrozoa"
+"1045","Euphausiidae","Cyanophycota"
+"1046","Euphausiidae","Ostracoda"
+"1047","Euphausiidae","Euphausiidae"
+"1048","Euphausiidae","Dinophyceae"
+"1049","Euphausiidae","Detritus complex"
+"1050","Hippolytidae","Bacillariophyta"
+"1051","Hippolytidae","Foraminiferida"
+"1052","Hippolytidae","Hydrozoa"
+"1053","Hippolytidae","Hermissenda crassicornis"
+"1054","Hippolytidae","Gammaridea"
+"1055","Hippolytidae","Prasinophyta"
+"1056","Hippolytidae","Detritus complex"
+"1057","Crangonidae","Strongylocentrotus droebachiensis"
+"1058","Crangonidae","Bacillariophyta"
+"1059","Crangonidae","Foraminiferida"
+"1060","Crangonidae","Hydrozoa"
+"1061","Crangonidae","Nereididae"
+"1062","Crangonidae","Glyceridae"
+"1063","Crangonidae","Macoma"
+"1064","Crangonidae","Ostracoda"
+"1065","Crangonidae","Idoteidae"
+"1066","Crangonidae","Gammaridea"
+"1067","Crangonidae","Detritus complex"
+"1068","Paguridae","Odonthalia"
+"1069","Paguridae","Gymnolaemata"
+"1070","Paguridae","Strongylocentrotus droebachiensis"
+"1071","Paguridae","Bacillariophyta"
+"1072","Paguridae","Foraminiferida"
+"1073","Paguridae","Hydrozoa"
+"1074","Paguridae","Lottia pelta"
+"1075","Paguridae","Glyceridae"
+"1076","Paguridae","Nucella lamellosa"
+"1077","Paguridae","Mytilus"
+"1078","Paguridae","Ostracoda"
+"1079","Paguridae","Paguridae"
+"1080","Paguridae","Detritus complex"
+"1081","Mimulus","Detritus complex"
+"1082","Pugettia","Laminaria"
+"1083","Pugettia","Costaria costata"
+"1084","Pugettia","Nereocystis luetkeana"
+"1085","Pugettia","Alaria"
+"1086","Pugettia","Fucus"
+"1087","Pugettia","Cystoseira"
+"1088","Pugettia","Odonthalia"
+"1089","Pugettia","Gymnolaemata"
+"1090","Pugettia","Bacillariophyta"
+"1091","Pugettia","Zostera marina"
+"1092","Pugettia","Hydrozoa"
+"1093","Pugettia","Mytilus"
+"1094","Pugettia","Idoteidae"
+"1095","Pugettia","Detritus complex"
+"1096","Scyra","Foraminiferida"
+"1097","Scyra","Detritus complex"
+"1098","Telmessus cheiragonus","Pycnopodia helianthoides"
+"1099","Telmessus cheiragonus","Zostera marina"
+"1100","Cancer","Phoronida"
+"1101","Cancer","Terebratalia transversa"
+"1102","Cancer","Leptasterias"
+"1103","Cancer","Pycnopodia helianthoides"
+"1104","Cancer","Strongylocentrotus droebachiensis"
+"1105","Cancer","Cucumaria"
+"1106","Cancer","Styela"
+"1107","Cancer","Ammodytes hexapterus"
+"1108","Cancer","Bacillariophyta"
+"1109","Cancer","Zostera marina"
+"1110","Cancer","Hydrozoa"
+"1111","Cancer","Pharidae"
+"1112","Cancer","Flabelligeridae"
+"1113","Cancer","Trochidae"
+"1114","Cancer","Littorina"
+"1115","Cancer","Trichotropis cancellata"
+"1116","Cancer","Nucella lamellosa"
+"1117","Cancer","Buccinum"
+"1118","Cancer","Mytilus"
+"1119","Cancer","Modiolus"
+"1120","Cancer","Clinocardium"
+"1121","Cancer","Tresus"
+"1122","Cancer","Mactromeris"
+"1123","Cancer","Macoma"
+"1124","Cancer","Saxidomus"
+"1125","Cancer","Protothaca staminea"
+"1126","Cancer","Hiatellidae"
+"1127","Cancer","Balanus crenatus"
+"1128","Cancer","Semibalanus balanoides"
+"1129","Cancer","Gammaridea"
+"1130","Cancer","Crangonidae"
+"1131","Cancer","Paguridae"
+"1132","Cancer","Pugettia"
+"1133","Cancer","Cancer"
+"1134","Cancer","Dinophyceae"
+"1135","Cancer","Detritus complex"
+"1136","Cancer","Red crust complex"
+"1137","Dinophyceae","Bacteria"
+"1138","Dinophyceae","Prymnesiophyceae"
+"1139","Dinophyceae","Bacillariophyta"
+"1140","Dinophyceae","Ciliophora"
+"1141","Dinophyceae","Cyanophycota"
+"1142","Dinophyceae","Prasinophyta"
+"1143","Dinophyceae","Dinophyceae"
+"1144","Gavia","Gasterosteus aculeatus"
+"1145","Gavia","Pholis"
+"1146","Gavia","Ammodytes hexapterus"
+"1147","Gavia","Enteroctopus dofleini"
+"1148","Gavia","Nereididae"
+"1149","Gavia","Idoteidae"
+"1150","Gavia","Gammaridea"
+"1151","Gavia","Hippolytidae"
+"1152","Gavia","Paguridae"
+"1153","Gavia","Gavia"
+"1154","Podiceps","Gasterosteus aculeatus"
+"1155","Podiceps","Nereididae"
+"1156","Podiceps","Ostracoda"
+"1157","Podiceps","Gammaridea"
+"1158","Podiceps","Crangonidae"
+"1159","Podiceps","Podiceps"
+"1160","Diomedeidae","Strongylocentrotus droebachiensis"
+"1161","Diomedeidae","Ammodytes hexapterus"
+"1162","Diomedeidae","Foraminiferida"
+"1163","Diomedeidae","Polynoidae"
+"1164","Diomedeidae","Nereididae"
+"1165","Diomedeidae","Trochidae"
+"1166","Diomedeidae","Sphaeromatidae"
+"1167","Diomedeidae","Gammaridea"
+"1168","Diomedeidae","Euphausiidae"
+"1169","Diomedeidae","Paguridae"
+"1170","Diomedeidae","Detritus complex"
+"1171","Fulmarus glacialis","Hydrozoa"
+"1172","Fulmarus glacialis","Nereididae"
+"1173","Fulmarus glacialis","Trochidae"
+"1174","Fulmarus glacialis","Ostracoda"
+"1175","Fulmarus glacialis","Idoteidae"
+"1176","Fulmarus glacialis","Gammaridea"
+"1177","Fulmarus glacialis","Euphausiidae"
+"1178","Fulmarus glacialis","Paguridae"
+"1179","Puffinus tenuirostris","Ammodytes hexapterus"
+"1180","Puffinus tenuirostris","Fusitriton"
+"1181","Puffinus tenuirostris","Gammaridea"
+"1182","Puffinus tenuirostris","Euphausiidae"
+"1183","Oceanodroma","Ammodytes hexapterus"
+"1184","Oceanodroma","Hydrozoa"
+"1185","Oceanodroma","Gammaridea"
+"1186","Oceanodroma","Euphausiidae"
+"1187","Oceanodroma","Detritus complex"
+"1188","Phalacrocorax auritus","Gasterosteus aculeatus"
+"1189","Phalacrocorax auritus","Pholis"
+"1190","Phalacrocorax auritus","Ammodytes hexapterus"
+"1191","Phalacrocorax auritus","Littorina"
+"1192","Phalacrocorax auritus","Mytilus"
+"1193","Phalacrocorax auritus","Hippolytidae"
+"1194","Phalacrocorax auritus","Crangonidae"
+"1195","Phalacrocorax auritus","Cancer"
+"1196","Phalacrocorax auritus","Detritus complex"
+"1197","Phalacrocorax pelagicus","Artedius"
+"1198","Phalacrocorax pelagicus","Ammodytes hexapterus"
+"1199","Phalacrocorax pelagicus","Nereididae"
+"1200","Phalacrocorax pelagicus","Hippolytidae"
+"1201","Cygnus columbianus","Cyanophycota"
+"1202","Cygnus columbianus","Ulvaceae"
+"1203","Cygnus columbianus","Nereididae"
+"1204","Cygnus columbianus","Macoma"
+"1205","Cygnus columbianus","Cygnus columbianus"
+"1206","Branta canadensis","Zostera marina"
+"1207","Branta canadensis","Somateria mollissima"
+"1208","Branta bernicla","Fucus"
+"1209","Branta bernicla","Zostera marina"
+"1210","Branta bernicla","Ulvaceae"
+"1211","Chen canagica","Zostera marina"
+"1212","Chen canagica","Pharidae"
+"1213","Chen canagica","Ulvaceae"
+"1214","Chen canagica","Mytilus"
+"1215","Chen canagica","Macoma"
+"1216","Chen canagica","Telmessus cheiragonus"
+"1217","Anas","Phoronida"
+"1218","Anas","Gymnolaemata"
+"1219","Anas","Bacillariophyta"
+"1220","Anas","Zostera marina"
+"1221","Anas","Foraminiferida"
+"1222","Anas","Cyanophycota"
+"1223","Anas","Ulvaceae"
+"1224","Anas","Nereididae"
+"1225","Anas","Cladophoraceae"
+"1226","Anas","Prostigmata"
+"1227","Anas","Ostracoda"
+"1228","Anas","Gammaridea"
+"1229","Anas","Detritus complex"
+"1230","Aythya marila","Zostera marina"
+"1231","Aythya marila","Ulvaceae"
+"1232","Aythya marila","Lacuna"
+"1233","Aythya marila","Littorina"
+"1234","Aythya marila","Cerithiopsis"
+"1235","Aythya marila","Mytilus"
+"1236","Aythya marila","Macoma"
+"1237","Aythya marila","Semibalanus balanoides"
+"1238","Aythya marila","Gammaridea"
+"1239","Aythya marila","Paguridae"
+"1240","Aythya marila","Cancer"
+"1241","Aythya marila","Detritus complex"
+"1242","Bucephala","Lottia pelta"
+"1243","Bucephala","Nereididae"
+"1244","Bucephala","Trochidae"
+"1245","Bucephala","Lacuna"
+"1246","Bucephala","Littorina"
+"1247","Bucephala","Mytilus"
+"1248","Bucephala","Macoma"
+"1249","Bucephala","Balanus glandula"
+"1250","Bucephala","Idoteidae"
+"1251","Bucephala","Gammaridea"
+"1252","Bucephala","Paguridae"
+"1253","Bucephala","Cancer"
+"1254","Bucephala","Detritus complex"
+"1255","Bucephala","Bucephala"
+"1256","Clangula hyemalis","Pharidae"
+"1257","Clangula hyemalis","Trochidae"
+"1258","Clangula hyemalis","Lacuna"
+"1259","Clangula hyemalis","Littorina"
+"1260","Clangula hyemalis","Mytilus"
+"1261","Clangula hyemalis","Macoma"
+"1262","Clangula hyemalis","Idoteidae"
+"1263","Clangula hyemalis","Gammaridea"
+"1264","Clangula hyemalis","Caprellidae"
+"1265","Clangula hyemalis","Euphausiidae"
+"1266","Clangula hyemalis","Crangonidae"
+"1267","Clangula hyemalis","Cancer"
+"1268","Histrionicus histrionicus","Ophiuroidea"
+"1269","Histrionicus histrionicus","Lottia pelta"
+"1270","Histrionicus histrionicus","Cyanophycota"
+"1271","Histrionicus histrionicus","Trochidae"
+"1272","Histrionicus histrionicus","Lacuna"
+"1273","Histrionicus histrionicus","Littorina"
+"1274","Histrionicus histrionicus","Tonicella"
+"1275","Histrionicus histrionicus","Mopalia"
+"1276","Histrionicus histrionicus","Mytilus"
+"1277","Histrionicus histrionicus","Paguridae"
+"1278","Polysticta stelleri","Ophiuroidea"
+"1279","Polysticta stelleri","Strongylocentrotus droebachiensis"
+"1280","Polysticta stelleri","Nereididae"
+"1281","Polysticta stelleri","Trochidae"
+"1282","Polysticta stelleri","Lacuna"
+"1283","Polysticta stelleri","Littorina"
+"1284","Polysticta stelleri","Buccinum"
+"1285","Polysticta stelleri","Mytilus"
+"1286","Polysticta stelleri","Macoma"
+"1287","Polysticta stelleri","Hiatellidae"
+"1288","Polysticta stelleri","Idoteidae"
+"1289","Polysticta stelleri","Gammaridea"
+"1290","Polysticta stelleri","Caprellidae"
+"1291","Somateria mollissima","Leptasterias"
+"1292","Somateria mollissima","Ophiuroidea"
+"1293","Somateria mollissima","Strongylocentrotus droebachiensis"
+"1294","Somateria mollissima","Nereididae"
+"1295","Somateria mollissima","Trochidae"
+"1296","Somateria mollissima","Lacuna"
+"1297","Somateria mollissima","Littorina"
+"1298","Somateria mollissima","Buccinum"
+"1299","Somateria mollissima","Tonicella"
+"1300","Somateria mollissima","Mytilus"
+"1301","Somateria mollissima","Modiolus"
+"1302","Somateria mollissima","Macoma"
+"1303","Somateria mollissima","Hiatellidae"
+"1304","Somateria mollissima","Idoteidae"
+"1305","Somateria mollissima","Gammaridea"
+"1306","Somateria mollissima","Cancer"
+"1307","Somateria mollissima","Somateria mollissima"
+"1308","Somateria spectabilis","Ophiuroidea"
+"1309","Somateria spectabilis","Strongylocentrotus droebachiensis"
+"1310","Somateria spectabilis","Hydrozoa"
+"1311","Somateria spectabilis","Trochidae"
+"1312","Somateria spectabilis","Mytilus"
+"1313","Somateria spectabilis","Macoma"
+"1314","Somateria spectabilis","Hiatellidae"
+"1315","Somateria spectabilis","Gammaridea"
+"1316","Somateria spectabilis","Caprellidae"
+"1317","Melanitta fusca","Acmaea mitra"
+"1318","Melanitta fusca","Lacuna"
+"1319","Melanitta fusca","Littorina"
+"1320","Melanitta fusca","Cerithiopsis"
+"1321","Melanitta fusca","Mytilus"
+"1322","Melanitta fusca","Clinocardium"
+"1323","Melanitta fusca","Macoma"
+"1324","Melanitta fusca","Protothaca staminea"
+"1325","Melanitta fusca","Gammaridea"
+"1326","Melanitta fusca","Cancer"
+"1327","Melanitta fusca","Melanitta fusca"
+"1328","Melanitta perspicillata","Ophiuroidea"
+"1329","Melanitta perspicillata","Trochidae"
+"1330","Melanitta perspicillata","Littorina"
+"1331","Melanitta perspicillata","Mytilus"
+"1332","Melanitta perspicillata","Clinocardium"
+"1333","Melanitta perspicillata","Macoma"
+"1334","Melanitta perspicillata","Protothaca staminea"
+"1335","Melanitta perspicillata","Balanus glandula"
+"1336","Melanitta perspicillata","Idoteidae"
+"1337","Melanitta perspicillata","Paguridae"
+"1338","Melanitta nigra","Pharidae"
+"1339","Melanitta nigra","Mytilus"
+"1340","Melanitta nigra","Clinocardium"
+"1341","Mergus","Gobiesocidae"
+"1342","Mergus","Gasterosteus aculeatus"
+"1343","Mergus","Oligocottus maculosus"
+"1344","Mergus","Anoplarchus purpurescens"
+"1345","Mergus","Xiphister atropurpureus"
+"1346","Mergus","Pholis"
+"1347","Mergus","Ammodytes hexapterus"
+"1348","Mergus","Mytilus"
+"1349","Mergus","Mergus"
+"1350","Buteo lagopus","Chrysophyta"
+"1351","Buteo lagopus","Detritus complex"
+"1352","Buteo lagopus","Anas"
+"1353","Buteo lagopus","Aythya marila"
+"1354","Buteo lagopus","Somateria spectabilis"
+"1355","Buteo lagopus","Charadrius semipalmatus"
+"1356","Buteo lagopus","Tringa melanoleuca"
+"1357","Buteo lagopus","Tringa incana"
+"1358","Buteo lagopus","Calidris"
+"1359","Buteo lagopus","Limosa lapponica"
+"1360","Buteo lagopus","Gallinago"
+"1361","Buteo lagopus","Phalaropus lobatus"
+"1362","Buteo lagopus","Rissa tridactyla"
+"1363","Buteo lagopus","Asio flammeus"
+"1364","Buteo lagopus","Calcarius lapponicus"
+"1365","Aquila chrysaetos","Chrysophyta"
+"1366","Aquila chrysaetos","Vulpes"
+"1367","Aquila chrysaetos","Cygnus columbianus"
+"1368","Aquila chrysaetos","Branta canadensis"
+"1369","Aquila chrysaetos","Chen canagica"
+"1370","Aquila chrysaetos","Anas"
+"1371","Aquila chrysaetos","Bucephala"
+"1372","Aquila chrysaetos","Histrionicus histrionicus"
+"1373","Aquila chrysaetos","Falco rusticolus"
+"1374","Aquila chrysaetos","Grus canadensis"
+"1375","Aquila chrysaetos","Tringa melanoleuca"
+"1376","Aquila chrysaetos","Larus argentatus"
+"1377","Aquila chrysaetos","Asio flammeus"
+"1378","Aquila chrysaetos","Corvus corax"
+"1379","Haliaeetus leucocephalus","Strongylocentrotus droebachiensis"
+"1380","Haliaeetus leucocephalus","Ammodytes hexapterus"
+"1381","Haliaeetus leucocephalus","Enhydra lutris"
+"1382","Haliaeetus leucocephalus","Vulpes"
+"1383","Haliaeetus leucocephalus","Nereididae"
+"1384","Haliaeetus leucocephalus","Cryptochiton stelleri"
+"1385","Haliaeetus leucocephalus","Mytilus"
+"1386","Haliaeetus leucocephalus","Clinocardium"
+"1387","Haliaeetus leucocephalus","Protothaca staminea"
+"1388","Haliaeetus leucocephalus","Cancer"
+"1389","Haliaeetus leucocephalus","Detritus complex"
+"1390","Haliaeetus leucocephalus","Gavia"
+"1391","Haliaeetus leucocephalus","Fulmarus glacialis"
+"1392","Haliaeetus leucocephalus","Puffinus tenuirostris"
+"1393","Haliaeetus leucocephalus","Oceanodroma"
+"1394","Haliaeetus leucocephalus","Branta canadensis"
+"1395","Haliaeetus leucocephalus","Chen canagica"
+"1396","Haliaeetus leucocephalus","Anas"
+"1397","Haliaeetus leucocephalus","Bucephala"
+"1398","Haliaeetus leucocephalus","Clangula hyemalis"
+"1399","Haliaeetus leucocephalus","Histrionicus histrionicus"
+"1400","Haliaeetus leucocephalus","Somateria mollissima"
+"1401","Haliaeetus leucocephalus","Mergus"
+"1402","Haliaeetus leucocephalus","Haliaeetus leucocephalus"
+"1403","Haliaeetus leucocephalus","Haematopus bachmani"
+"1404","Haliaeetus leucocephalus","Larus hyperboreus"
+"1405","Haliaeetus leucocephalus","Larus glaucescens"
+"1406","Haliaeetus leucocephalus","Rissa tridactyla"
+"1407","Haliaeetus leucocephalus","Uria aalge"
+"1408","Haliaeetus leucocephalus","Uria lomvia"
+"1409","Haliaeetus leucocephalus","Cepphus columba"
+"1410","Haliaeetus leucocephalus","Brachyramphus marmoratus"
+"1411","Haliaeetus leucocephalus","Synthliboramphus antiquus"
+"1412","Haliaeetus leucocephalus","Aethia cristatella"
+"1413","Haliaeetus leucocephalus","Fratercula corniculata"
+"1414","Haliaeetus leucocephalus","Fratercula cirrhata"
+"1415","Haliaeetus leucocephalus","Corvus corax"
+"1416","Haliaeetus leucocephalus","Aethia psittacula"
+"1417","Falco rusticolus","Anas"
+"1418","Falco rusticolus","Clangula hyemalis"
+"1419","Falco rusticolus","Mergus"
+"1420","Falco rusticolus","Buteo lagopus"
+"1421","Falco rusticolus","Falco rusticolus"
+"1422","Falco rusticolus","Falco peregrinus"
+"1423","Falco rusticolus","Calidris"
+"1424","Falco rusticolus","Gallinago"
+"1425","Falco rusticolus","Phalaropus lobatus"
+"1426","Falco rusticolus","Larus canus"
+"1427","Falco rusticolus","Rissa tridactyla"
+"1428","Falco rusticolus","Sterna"
+"1429","Falco rusticolus","Asio flammeus"
+"1430","Falco rusticolus","Calcarius lapponicus"
+"1431","Falco rusticolus","Plectrophenax"
+"1432","Falco peregrinus","Oceanodroma"
+"1433","Falco peregrinus","Phalacrocorax pelagicus"
+"1434","Falco peregrinus","Branta bernicla"
+"1435","Falco peregrinus","Anas"
+"1436","Falco peregrinus","Bucephala"
+"1437","Falco peregrinus","Clangula hyemalis"
+"1438","Falco peregrinus","Histrionicus histrionicus"
+"1439","Falco peregrinus","Mergus"
+"1440","Falco peregrinus","Falco peregrinus"
+"1441","Falco peregrinus","Grus canadensis"
+"1442","Falco peregrinus","Haematopus bachmani"
+"1443","Falco peregrinus","Charadrius semipalmatus"
+"1444","Falco peregrinus","Tringa melanoleuca"
+"1445","Falco peregrinus","Tringa incana"
+"1446","Falco peregrinus","Calidris"
+"1447","Falco peregrinus","Gallinago"
+"1448","Falco peregrinus","Phalaropus lobatus"
+"1449","Falco peregrinus","Larus glaucescens"
+"1450","Falco peregrinus","Rissa tridactyla"
+"1451","Falco peregrinus","Sterna"
+"1452","Falco peregrinus","Uria aalge"
+"1453","Falco peregrinus","Cepphus columba"
+"1454","Falco peregrinus","Brachyramphus marmoratus"
+"1455","Falco peregrinus","Synthliboramphus antiquus"
+"1456","Falco peregrinus","Ptychoramphus aleuticus"
+"1457","Falco peregrinus","Aethia cristatella"
+"1458","Falco peregrinus","Fratercula corniculata"
+"1459","Falco peregrinus","Fratercula cirrhata"
+"1460","Falco peregrinus","Asio flammeus"
+"1461","Falco peregrinus","Calcarius lapponicus"
+"1462","Falco peregrinus","Plectrophenax"
+"1463","Falco peregrinus","Corvus corax"
+"1464","Falco peregrinus","Aethia psittacula"
+"1465","Falco peregrinus","Anthus rubescens"
+"1466","Grus canadensis","Anas"
+"1467","Haematopus bachmani","Phascolosomatidae"
+"1468","Haematopus bachmani","Leptasterias"
+"1469","Haematopus bachmani","Hydrozoa"
+"1470","Haematopus bachmani","Lottia digitalis"
+"1471","Haematopus bachmani","Lottia pelta"
+"1472","Haematopus bachmani","Lottia persona"
+"1473","Haematopus bachmani","Lottia scutum"
+"1474","Haematopus bachmani","Nereididae"
+"1475","Haematopus bachmani","Acmaea mitra"
+"1476","Haematopus bachmani","Trochidae"
+"1477","Haematopus bachmani","Littorina"
+"1478","Haematopus bachmani","Nucella canaliculata"
+"1479","Haematopus bachmani","Nucella lamellosa"
+"1480","Haematopus bachmani","Tonicella"
+"1481","Haematopus bachmani","Katharina tunicata"
+"1482","Haematopus bachmani","Mopalia"
+"1483","Haematopus bachmani","Mytilus"
+"1484","Haematopus bachmani","Saxidomus"
+"1485","Haematopus bachmani","Protothaca staminea"
+"1486","Haematopus bachmani","Balanus glandula"
+"1487","Haematopus bachmani","Idoteidae"
+"1488","Charadrius semipalmatus","Nereididae"
+"1489","Charadrius semipalmatus","Glyceridae"
+"1490","Charadrius semipalmatus","Macoma"
+"1491","Charadrius semipalmatus","Ostracoda"
+"1492","Charadrius semipalmatus","Gammaridea"
+"1493","Tringa melanoleuca","Staphylinidae"
+"1494","Tringa melanoleuca","Gymnolaemata"
+"1495","Tringa melanoleuca","Gasterosteus aculeatus"
+"1496","Tringa melanoleuca","Foraminiferida"
+"1497","Tringa melanoleuca","Nereididae"
+"1498","Tringa melanoleuca","Littorina"
+"1499","Tringa melanoleuca","Macoma"
+"1500","Tringa melanoleuca","Ostracoda"
+"1501","Tringa melanoleuca","Sphaeromatidae"
+"1502","Tringa melanoleuca","Gammaridea"
+"1503","Tringa melanoleuca","Crangonidae"
+"1504","Tringa melanoleuca","Tringa melanoleuca"
+"1505","Tringa incana","Littorina"
+"1506","Tringa incana","Gammaridea"
+"1507","Calidris","Staphylinidae"
+"1508","Calidris","Foraminiferida"
+"1509","Calidris","Hydrozoa"
+"1510","Calidris","Nereididae"
+"1511","Calidris","Lumbrineridae"
+"1512","Calidris","Lacuna"
+"1513","Calidris","Littorina"
+"1514","Calidris","Mytilus"
+"1515","Calidris","Modiolus"
+"1516","Calidris","Clinocardium"
+"1517","Calidris","Macoma"
+"1518","Calidris","Ostracoda"
+"1519","Calidris","Balanus glandula"
+"1520","Calidris","Sphaeromatidae"
+"1521","Calidris","Gammaridea"
+"1522","Calidris","Detritus complex"
+"1523","Calidris","Biofilm Complex"
+"1524","Calidris","Calidris"
+"1525","Limosa lapponica","Staphylinidae"
+"1526","Limosa lapponica","Nereididae"
+"1527","Limosa lapponica","Terebellidae"
+"1528","Limosa lapponica","Littorina"
+"1529","Limosa lapponica","Macoma"
+"1530","Limosa lapponica","Gammaridea"
+"1531","Limosa lapponica","Detritus complex"
+"1532","Limosa lapponica","Limosa lapponica"
+"1533","Gallinago","Staphylinidae"
+"1534","Gallinago","Gallinago"
+"1535","Phalaropus lobatus","Hydrozoa"
+"1536","Phalaropus lobatus","Modiolus"
+"1537","Phalaropus lobatus","Euphausiidae"
+"1538","Phalaropus lobatus","Phalaropus lobatus"
+"1539","Stercorarius parasiticus","Vulpes"
+"1540","Stercorarius parasiticus","Gammaridea"
+"1541","Stercorarius parasiticus","Gavia"
+"1542","Stercorarius parasiticus","Oceanodroma"
+"1543","Stercorarius parasiticus","Cygnus columbianus"
+"1544","Stercorarius parasiticus","Branta canadensis"
+"1545","Stercorarius parasiticus","Branta bernicla"
+"1546","Stercorarius parasiticus","Chen canagica"
+"1547","Stercorarius parasiticus","Anas"
+"1548","Stercorarius parasiticus","Aythya marila"
+"1549","Stercorarius parasiticus","Clangula hyemalis"
+"1550","Stercorarius parasiticus","Somateria mollissima"
+"1551","Stercorarius parasiticus","Somateria spectabilis"
+"1552","Stercorarius parasiticus","Charadrius semipalmatus"
+"1553","Stercorarius parasiticus","Calidris"
+"1554","Stercorarius parasiticus","Stercorarius parasiticus"
+"1555","Stercorarius parasiticus","Larus hyperboreus"
+"1556","Stercorarius parasiticus","Larus argentatus"
+"1557","Stercorarius parasiticus","Rissa tridactyla"
+"1558","Stercorarius parasiticus","Sterna"
+"1559","Stercorarius parasiticus","Uria aalge"
+"1560","Stercorarius parasiticus","Uria lomvia"
+"1561","Stercorarius parasiticus","Calcarius lapponicus"
+"1562","Stercorarius parasiticus","Plectrophenax"
+"1563","Larus hyperboreus","Strongylocentrotus droebachiensis"
+"1564","Larus hyperboreus","Pholis"
+"1565","Larus hyperboreus","Ammodytes hexapterus"
+"1566","Larus hyperboreus","Pharidae"
+"1567","Larus hyperboreus","Nereididae"
+"1568","Larus hyperboreus","Naticidae"
+"1569","Larus hyperboreus","Mytilus"
+"1570","Larus hyperboreus","Modiolus"
+"1571","Larus hyperboreus","Euphausiidae"
+"1572","Larus hyperboreus","Cygnus columbianus"
+"1573","Larus hyperboreus","Branta canadensis"
+"1574","Larus hyperboreus","Branta bernicla"
+"1575","Larus hyperboreus","Chen canagica"
+"1576","Larus hyperboreus","Anas"
+"1577","Larus hyperboreus","Aythya marila"
+"1578","Larus hyperboreus","Clangula hyemalis"
+"1579","Larus hyperboreus","Somateria mollissima"
+"1580","Larus hyperboreus","Somateria spectabilis"
+"1581","Larus hyperboreus","Grus canadensis"
+"1582","Larus hyperboreus","Calidris"
+"1583","Larus hyperboreus","Phalaropus lobatus"
+"1584","Larus hyperboreus","Larus canus"
+"1585","Larus hyperboreus","Rissa tridactyla"
+"1586","Larus hyperboreus","Uria aalge"
+"1587","Larus hyperboreus","Uria lomvia"
+"1588","Larus hyperboreus","Plectrophenax"
+"1589","Larus glaucescens","Nereocystis luetkeana"
+"1590","Larus glaucescens","Solaster stimpsoni"
+"1591","Larus glaucescens","Dermasterias imbricata"
+"1592","Larus glaucescens","Evasterias troschelii"
+"1593","Larus glaucescens","Leptasterias"
+"1594","Larus glaucescens","Orthasterias koehleri"
+"1595","Larus glaucescens","Pycnopodia helianthoides"
+"1596","Larus glaucescens","Strongylocentrotus droebachiensis"
+"1597","Larus glaucescens","Cucumaria"
+"1598","Larus glaucescens","Trichodon trichodon"
+"1599","Larus glaucescens","Ammodytes hexapterus"
+"1600","Larus glaucescens","Enteroctopus dofleini"
+"1601","Larus glaucescens","Lottia digitalis"
+"1602","Larus glaucescens","Lottia pelta"
+"1603","Larus glaucescens","Lottia scutum"
+"1604","Larus glaucescens","Amphiporidae"
+"1605","Larus glaucescens","Nereididae"
+"1606","Larus glaucescens","Acmaea mitra"
+"1607","Larus glaucescens","Trochidae"
+"1608","Larus glaucescens","Littorina"
+"1609","Larus glaucescens","Nucella canaliculata"
+"1610","Larus glaucescens","Nucella lamellosa"
+"1611","Larus glaucescens","Katharina tunicata"
+"1612","Larus glaucescens","Mopalia"
+"1613","Larus glaucescens","Cryptochiton stelleri"
+"1614","Larus glaucescens","Mytilus"
+"1615","Larus glaucescens","Clinocardium"
+"1616","Larus glaucescens","Tresus"
+"1617","Larus glaucescens","Saxidomus"
+"1618","Larus glaucescens","Protothaca staminea"
+"1619","Larus glaucescens","Balanus glandula"
+"1620","Larus glaucescens","Semibalanus cariosus"
+"1621","Larus glaucescens","Pugettia"
+"1622","Larus glaucescens","Telmessus cheiragonus"
+"1623","Larus glaucescens","Cancer"
+"1624","Larus glaucescens","Detritus complex"
+"1625","Larus glaucescens","Oceanodroma"
+"1626","Larus glaucescens","Cygnus columbianus"
+"1627","Larus glaucescens","Branta canadensis"
+"1628","Larus glaucescens","Branta bernicla"
+"1629","Larus glaucescens","Chen canagica"
+"1630","Larus glaucescens","Polysticta stelleri"
+"1631","Larus glaucescens","Rissa tridactyla"
+"1632","Larus glaucescens","Synthliboramphus antiquus"
+"1633","Larus glaucescens","Ptychoramphus aleuticus"
+"1634","Larus glaucescens","Aethia cristatella"
+"1635","Larus glaucescens","Fratercula cirrhata"
+"1636","Larus argentatus","Strongylocentrotus droebachiensis"
+"1637","Larus argentatus","Pharidae"
+"1638","Larus argentatus","Trochidae"
+"1639","Larus argentatus","Lacuna"
+"1640","Larus argentatus","Littorina"
+"1641","Larus argentatus","Mytilus"
+"1642","Larus argentatus","Macoma"
+"1643","Larus argentatus","Paguridae"
+"1644","Larus argentatus","Cancer"
+"1645","Larus argentatus","Oceanodroma"
+"1646","Larus argentatus","Branta canadensis"
+"1647","Larus argentatus","Anas"
+"1648","Larus argentatus","Clangula hyemalis"
+"1649","Larus argentatus","Somateria mollissima"
+"1650","Larus argentatus","Mergus"
+"1651","Larus argentatus","Charadrius semipalmatus"
+"1652","Larus argentatus","Calidris"
+"1653","Larus argentatus","Rissa tridactyla"
+"1654","Larus argentatus","Sterna"
+"1655","Larus argentatus","Asio flammeus"
+"1656","Larus argentatus","Plectrophenax"
+"1657","Larus canus","Pharidae"
+"1658","Larus canus","Nereididae"
+"1659","Larus canus","Terebellidae"
+"1660","Larus canus","Mytilus"
+"1661","Larus canus","Macoma"
+"1662","Larus canus","Crangonidae"
+"1663","Larus canus","Paguridae"
+"1664","Larus canus","Cygnus columbianus"
+"1665","Larus canus","Aythya marila"
+"1666","Larus canus","Calidris"
+"1667","Larus canus","Melospiza melodia"
+"1668","Rissa tridactyla","Trichodon trichodon"
+"1669","Rissa tridactyla","Ammodytes hexapterus"
+"1670","Rissa tridactyla","Nereididae"
+"1671","Rissa tridactyla","Gammaridea"
+"1672","Rissa tridactyla","Euphausiidae"
+"1673","Rissa tridactyla","Rissa tridactyla"
+"1674","Sterna","Gasterosteus aculeatus"
+"1675","Sterna","Hydrozoa"
+"1676","Sterna","Nereididae"
+"1677","Sterna","Gammaridea"
+"1678","Sterna","Euphausiidae"
+"1679","Uria aalge","Ammodytes hexapterus"
+"1680","Uria aalge","Nereididae"
+"1681","Uria aalge","Pycnogonida"
+"1682","Uria aalge","Gammaridea"
+"1683","Uria aalge","Euphausiidae"
+"1684","Uria aalge","Hippolytidae"
+"1685","Uria aalge","Crangonidae"
+"1686","Uria aalge","Uria aalge"
+"1687","Uria lomvia","Ammodytes hexapterus"
+"1688","Uria lomvia","Nereididae"
+"1689","Uria lomvia","Gammaridea"
+"1690","Uria lomvia","Euphausiidae"
+"1691","Uria lomvia","Hippolytidae"
+"1692","Uria lomvia","Crangonidae"
+"1693","Cepphus columba","Trichodon trichodon"
+"1694","Cepphus columba","Pholis"
+"1695","Cepphus columba","Ammodytes hexapterus"
+"1696","Cepphus columba","Lacuna"
+"1697","Cepphus columba","Hippolytidae"
+"1698","Cepphus columba","Crangonidae"
+"1699","Cepphus columba","Paguridae"
+"1700","Cepphus columba","Cancer"
+"1701","Brachyramphus marmoratus","Trichodon trichodon"
+"1702","Brachyramphus marmoratus","Ammodytes hexapterus"
+"1703","Brachyramphus marmoratus","Gammaridea"
+"1704","Brachyramphus marmoratus","Euphausiidae"
+"1705","Synthliboramphus antiquus","Ammodytes hexapterus"
+"1706","Synthliboramphus antiquus","Gammaridea"
+"1707","Synthliboramphus antiquus","Euphausiidae"
+"1708","Synthliboramphus antiquus","Synthliboramphus antiquus"
+"1709","Ptychoramphus aleuticus","Artedius"
+"1710","Ptychoramphus aleuticus","Clinocottus"
+"1711","Ptychoramphus aleuticus","Ammodytes hexapterus"
+"1712","Ptychoramphus aleuticus","Hydrozoa"
+"1713","Ptychoramphus aleuticus","Ostracoda"
+"1714","Ptychoramphus aleuticus","Idoteidae"
+"1715","Ptychoramphus aleuticus","Gammaridea"
+"1716","Ptychoramphus aleuticus","Caprellidae"
+"1717","Ptychoramphus aleuticus","Euphausiidae"
+"1718","Ptychoramphus aleuticus","Hippolytidae"
+"1719","Ptychoramphus aleuticus","Crangonidae"
+"1720","Ptychoramphus aleuticus","Paguridae"
+"1721","Ptychoramphus aleuticus","Cancer"
+"1722","Aethia cristatella","Hydrozoa"
+"1723","Aethia cristatella","Gammaridea"
+"1724","Aethia cristatella","Euphausiidae"
+"1725","Aethia cristatella","Paguridae"
+"1726","Fratercula corniculata","Gasterosteus aculeatus"
+"1727","Fratercula corniculata","Trichodon trichodon"
+"1728","Fratercula corniculata","Pholis"
+"1729","Fratercula corniculata","Ammodytes hexapterus"
+"1730","Fratercula corniculata","Euphausiidae"
+"1731","Fratercula cirrhata","Gasterosteus aculeatus"
+"1732","Fratercula cirrhata","Trichodon trichodon"
+"1733","Fratercula cirrhata","Pholis"
+"1734","Fratercula cirrhata","Ammodytes hexapterus"
+"1735","Fratercula cirrhata","Nereididae"
+"1736","Fratercula cirrhata","Gammaridea"
+"1737","Fratercula cirrhata","Euphausiidae"
+"1738","Asio flammeus","Oceanodroma"
+"1739","Asio flammeus","Charadrius semipalmatus"
+"1740","Asio flammeus","Calidris"
+"1741","Asio flammeus","Sterna"
+"1742","Asio flammeus","Melospiza melodia"
+"1743","Lanius excubitor","Staphylinidae"
+"1744","Lanius excubitor","Calidris"
+"1745","Lanius excubitor","Plectrophenax"
+"1746","Melospiza melodia","Detritus complex"
+"1747","Calcarius lapponicus","Staphylinidae"
+"1748","Plectrophenax","Staphylinidae"
+"1749","Corvus corax","Strongylocentrotus droebachiensis"
+"1750","Corvus corax","Cryptochiton stelleri"
+"1751","Corvus corax","Detritus complex"
+"1752","Corvus corax","Gavia"
+"1753","Corvus corax","Cygnus columbianus"
+"1754","Corvus corax","Branta canadensis"
+"1755","Corvus corax","Anas"
+"1756","Corvus corax","Aythya marila"
+"1757","Corvus corax","Polysticta stelleri"
+"1758","Corvus corax","Somateria mollissima"
+"1759","Corvus corax","Somateria spectabilis"
+"1760","Corvus corax","Mergus"
+"1761","Corvus corax","Grus canadensis"
+"1762","Corvus corax","Haematopus bachmani"
+"1763","Corvus corax","Charadrius semipalmatus"
+"1764","Corvus corax","Calidris"
+"1765","Corvus corax","Limosa lapponica"
+"1766","Corvus corax","Larus glaucescens"
+"1767","Corvus corax","Larus argentatus"
+"1768","Corvus corax","Rissa tridactyla"
+"1769","Corvus corax","Sterna"
+"1770","Corvus corax","Uria aalge"
+"1771","Corvus corax","Uria lomvia"
+"1772","Corvus corax","Brachyramphus marmoratus"
+"1773","Corvus corax","Asio flammeus"
+"1774","Corvus corax","Calcarius lapponicus"
+"1775","Corvus corax","Corvus corax"
+"1776","Aethia psittacula","Ammodytes hexapterus"
+"1777","Aethia psittacula","Gammaridea"
+"1778","Aethia psittacula","Euphausiidae"
+"1779","Aethia psittacula","Paguridae"
+"1780","Anthus rubescens","Staphylinidae"
+"1781","Bubo scandiacus","Podiceps"
+"1782","Bubo scandiacus","Oceanodroma"
+"1783","Bubo scandiacus","Branta canadensis"
+"1784","Bubo scandiacus","Anas"
+"1785","Bubo scandiacus","Aythya marila"
+"1786","Bubo scandiacus","Bucephala"
+"1787","Bubo scandiacus","Clangula hyemalis"
+"1788","Bubo scandiacus","Histrionicus histrionicus"
+"1789","Bubo scandiacus","Polysticta stelleri"
+"1790","Bubo scandiacus","Melanitta fusca"
+"1791","Bubo scandiacus","Melanitta perspicillata"
+"1792","Bubo scandiacus","Calidris"
+"1793","Bubo scandiacus","Larus glaucescens"
+"1794","Bubo scandiacus","Larus canus"
+"1795","Bubo scandiacus","Cepphus columba"
+"1796","Bubo scandiacus","Synthliboramphus antiquus"
+"1797","Bubo scandiacus","Ptychoramphus aleuticus"
+"1798","Bubo scandiacus","Fratercula corniculata"
+"1799","Bubo scandiacus","Fratercula cirrhata"
+"1800","Bubo scandiacus","Asio flammeus"
+"1801","Bubo scandiacus","Melospiza melodia"
+"1802","Bubo scandiacus","Calcarius lapponicus"
+"1803","Bubo scandiacus","Plectrophenax"
+"1804","Cinclus mexicanus","Hydrozoa"

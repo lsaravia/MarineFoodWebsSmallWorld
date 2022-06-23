@@ -1,0 +1,29 @@
+,Baleen whales,Killer whales,Toothed whales and dolphins,Sperm whale,Antarctic fur seal,Southern elephant seal,Penguins,Albatrosses,Other seabirds,Cephalopods,Juvenile patagonian toothfish,Adult patagonian toothfish,Mackerel icefish,Myctophids,Small mesopelagic fish,Large mesopelagic fish,Other demersal fish,Large deep-sea demersal fish,Krill,Other macrozooplankton,Mesozooplankton,Microzooplankton,Zoobenthos,Bacteria,Phytoplankton,Macroalgae,Carcass,Detritus
+Baleen whales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Killer whales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Toothed whales and dolphins,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sperm whale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Antarctic fur seal,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Southern elephant seal,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Penguins,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Albatrosses,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other seabirds,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cephalopods,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Juvenile patagonian toothfish,0,1,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adult patagonian toothfish,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mackerel icefish,0,1,1,1,1,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Myctophids,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Small mesopelagic fish,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Large mesopelagic fish,0,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Other demersal fish,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Large deep-sea demersal fish,0,1,1,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Krill,1,0,1,0,0,0,1,1,1,1,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0
+Other macrozooplankton,1,0,1,0,0,0,1,1,1,1,1,0,1,1,1,1,1,1,0,1,0,0,1,0,0,0,0,0
+Mesozooplankton,1,0,0,0,0,0,0,1,0,1,0,0,1,1,1,1,1,1,1,1,1,0,1,0,0,0,0,0
+Microzooplankton,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0
+Zoobenthos,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0
+Bacteria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+Phytoplankton,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+Macroalgae,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Carcass,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Detritus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
