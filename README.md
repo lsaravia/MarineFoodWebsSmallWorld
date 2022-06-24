@@ -1,7 +1,9 @@
-# R Code and data for the paper: The Architecture of Marine Food Webs: to be or not be a ‘small-world’ 
+# R Code and data for the paper: Architecture of Marine Food Webs: to be or not be a ‘small-world’ 
+
+[![DOI](https://zenodo.org/badge/122111156.svg)](https://zenodo.org/badge/latestdoi/122111156)
 
 
-## Abstract
+## Paper
 
 Tomás Ignacio Marina ^1^ ^2^ ^3^, Leonardo A. Saravia ^2^ ^3^, Georgina Cordone ^1^ ^2^, Vanesa Salinas ^1^ ^2^, Santiago Doyle ^2^ and Fernando R. Momo ^2^ ^3^. 
 
@@ -10,6 +12,8 @@ Tomás Ignacio Marina ^1^ ^2^ ^3^, Leonardo A. Saravia ^2^ ^3^, Georgina Cordone
 2. Instituto de Ciencias, Universidad Nacional de General Sarmiento, Los Polvorines, Argentina
 
 3. INEDES, Universidad Nacional de Luján, Luján, Argentina
+
+https://doi.org/10.1371/journal.pone.0198217
 
 ## R Markdown files description
 
